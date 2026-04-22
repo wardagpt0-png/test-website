@@ -1,0 +1,30 @@
+{
+  "title": "sas",
+  "price": "258",
+  "description": "fsdf",
+  "metaDescription": "sdf",
+  "labels": [
+    "ffs"
+  ],
+  "images": [
+    {
+      "alt": "sas"
+    }
+  ],
+  "slug": "sas-1776823195252",
+  "publishedAt": "2026-04-22T01:59:55.252Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "sas",
+    "description": "fsdf",
+    "offers": {
+      "@type": "Offer",
+      "price": "258",
+      "priceCurrency": "MAD"
+    },
+    "image": [
+      null
+    ]
+  }
+}
