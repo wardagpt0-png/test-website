@@ -1,0 +1,50 @@
+{
+  "title": "hf",
+  "price": 445,
+  "oldPrice": 45,
+  "discountPercentage": "45",
+  "description": "hfj",
+  "detailedDescription": "jgj",
+  "metaDescription": "gjh",
+  "features": "gjh",
+  "benefits": "hgj",
+  "labels": [
+    "gjgh"
+  ],
+  "category": "45",
+  "slug": "hfgh",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "alt": "Capture d’écran 2026-04-22 030314.png"
+    }
+  ],
+  "name": "hf",
+  "publishedAt": "2026-04-22T20:02:30.603Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "hf",
+    "description": "gjh",
+    "image": [
+      null
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 445,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/hfgh"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
