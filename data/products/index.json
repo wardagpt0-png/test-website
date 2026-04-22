@@ -1,5 +1,22 @@
 [
   {
+    "slug": "dfdh",
+    "title": "ilyass",
+    "name": "ilyass",
+    "price": 45546,
+    "oldPrice": 155446,
+    "discountPercentage": "14",
+    "category": "hkjhj",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776891426/rk2r5zqmaifp0d6ahlgj.jpg",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776891426/rk2r5zqmaifp0d6ahlgj.jpg",
+        "alt": "woman-on-a-football-field.jpg"
+      }
+    ],
+    "publishedAt": "2026-04-22T20:57:14.610Z"
+  },
+  {
     "slug": "gj",
     "title": "uy",
     "name": "uy",
