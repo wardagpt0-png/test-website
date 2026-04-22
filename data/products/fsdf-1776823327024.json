@@ -1,0 +1,30 @@
+{
+  "title": "fsdf",
+  "price": "258",
+  "description": "sfdsf",
+  "metaDescription": "sfdf",
+  "labels": [
+    "fsd"
+  ],
+  "images": [
+    {
+      "alt": "fsdf"
+    }
+  ],
+  "slug": "fsdf-1776823327024",
+  "publishedAt": "2026-04-22T02:02:07.024Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "fsdf",
+    "description": "sfdsf",
+    "offers": {
+      "@type": "Offer",
+      "price": "258",
+      "priceCurrency": "MAD"
+    },
+    "image": [
+      null
+    ]
+  }
+}
