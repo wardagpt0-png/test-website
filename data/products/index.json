@@ -1,5 +1,22 @@
 [
   {
+    "slug": "hjk",
+    "title": "khjk",
+    "name": "khjk",
+    "price": 56546,
+    "oldPrice": 546,
+    "discountPercentage": "645",
+    "category": "54",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776890558/xlfh7x346t3xfxaixpv9.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776890558/xlfh7x346t3xfxaixpv9.png",
+        "alt": "Capture d’écran 2026-04-22 172505.png"
+      }
+    ],
+    "publishedAt": "2026-04-22T20:43:01.523Z"
+  },
+  {
     "slug": "jghj",
     "title": "jgh",
     "name": "jgh",
