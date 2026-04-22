@@ -1,0 +1,30 @@
+{
+  "title": "hdhfg",
+  "price": "150",
+  "description": "fghfh",
+  "metaDescription": "hfgh",
+  "labels": [
+    "hfhf"
+  ],
+  "images": [
+    {
+      "alt": "fhfgh"
+    }
+  ],
+  "slug": "hdhfg-1776872777116",
+  "publishedAt": "2026-04-22T15:46:17.117Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "hdhfg",
+    "description": "fghfh",
+    "offers": {
+      "@type": "Offer",
+      "price": "150",
+      "priceCurrency": "MAD"
+    },
+    "image": [
+      null
+    ]
+  }
+}
