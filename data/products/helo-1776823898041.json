@@ -1,0 +1,30 @@
+{
+  "title": "helo",
+  "price": "7475",
+  "description": "heloo",
+  "metaDescription": "gdhgf",
+  "labels": [
+    "755"
+  ],
+  "images": [
+    {
+      "alt": "dark luxury cinematic shot of a glowing golden digital globe constructed of fiber optic nodes.webp"
+    }
+  ],
+  "slug": "helo-1776823898041",
+  "publishedAt": "2026-04-22T02:11:38.041Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "helo",
+    "description": "heloo",
+    "offers": {
+      "@type": "Offer",
+      "price": "7475",
+      "priceCurrency": "MAD"
+    },
+    "image": [
+      null
+    ]
+  }
+}
