@@ -1,5 +1,26 @@
 [
   {
+    "slug": "smal01-wa",
+    "title": "smal01",
+    "name": "smal01",
+    "price": 50,
+    "oldPrice": 58,
+    "discountPercentage": "18",
+    "category": "Coffre Fort",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776920720/ohiqda7bhjg3lya1gijc.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776920720/ohiqda7bhjg3lya1gijc.png",
+        "alt": "5.png"
+      },
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776920722/lpambdlni5ry7mmtuc3z.png",
+        "alt": "6.png"
+      }
+    ],
+    "publishedAt": "2026-04-23T05:05:25.056Z"
+  },
+  {
     "slug": "ilyass-02",
     "title": "ilyass02",
     "name": "ilyass02",
