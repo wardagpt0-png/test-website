@@ -1,5 +1,22 @@
 [
   {
+    "slug": "hfg",
+    "title": "gdhgf",
+    "name": "gdhgf",
+    "price": 545,
+    "oldPrice": 48,
+    "discountPercentage": "45",
+    "category": "4mj",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776903573/vcs4gq4jecc2w95e6eh5.webp",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776903573/vcs4gq4jecc2w95e6eh5.webp",
+        "alt": "featuring-a-smart-display-screen-mounted-on-the wall.webp"
+      }
+    ],
+    "publishedAt": "2026-04-23T00:19:37.906Z"
+  },
+  {
     "slug": "dfg",
     "title": "gdfgdf",
     "name": "gdfgdf",
