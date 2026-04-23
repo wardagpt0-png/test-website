@@ -90,38 +90,5 @@
       }
     ],
     "publishedAt": "2026-04-23T05:04:21.069Z"
-  },
-  {
-    "slug": "lyass-small",
-    "title": "ilyass",
-    "name": "ilyass",
-    "price": 45546,
-    "oldPrice": 155446,
-    "discountPercentage": "14",
-    "category": "hkjhj",
-    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776891426/rk2r5zqmaifp0d6ahlgj.jpg",
-    "images": [
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776891426/rk2r5zqmaifp0d6ahlgj.jpg",
-        "alt": "woman-on-a-football-field.jpg"
-      },
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776905515/othfjzvyucikl0fuud5v.jpg",
-        "alt": "woman-on-a-football-field.jpg"
-      },
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776905517/shqvb81f1yuvo6sv1rrl.png",
-        "alt": "Capture d’écran 2026-04-22 205319.png"
-      },
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776905518/om9aeo65x9uuovnwgwzo.png",
-        "alt": "Capture d’écran 2026-04-22 204531.png"
-      },
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776905521/m0hh91c52rcx804vyj6o.png",
-        "alt": "Capture d’écran 2026-04-22 204436.png"
-      }
-    ],
-    "publishedAt": "2026-04-23T00:52:03.459Z"
   }
 ]
