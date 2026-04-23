@@ -1,0 +1,25 @@
+{
+  "title": "Titre de l'article *",
+  "content": "<span style=\"color: rgb(148, 163, 184); font-size: 13px; font-weight: 600; background-color: rgba(30, 41, 59, 0.85);\">Catégories (séparées par virgule)</span><div><span style=\"color: rgb(148, 163, 184); font-size: 13px; font-weight: 600; background-color: rgba(30, 41, 59, 0.85);\"><br></span></div>",
+  "metaDescription": "Meta Description (SEO)",
+  "labels": [
+    "Catégories (séparées par virgule)"
+  ],
+  "slug": "URL de l'article (slug)",
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776985118/jetfwhuwhzk3elvfwibx.webp",
+      "alt": "golden-seal-with-intricate-digital-engravings.webp"
+    }
+  ],
+  "name": "Titre de l'article *",
+  "publishedAt": "2026-04-23T22:58:41.103Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Titre de l'article *",
+    "description": "Meta Description (SEO)",
+    "datePublished": "2026-04-23T22:58:41.103Z",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776985118/jetfwhuwhzk3elvfwibx.webp"
+  }
+}
