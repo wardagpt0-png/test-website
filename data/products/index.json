@@ -152,21 +152,5 @@
       }
     ],
     "publishedAt": "2026-04-22T20:14:37.575Z"
-  },
-  {
-    "slug": "hkj",
-    "title": "gk",
-    "name": "gk",
-    "price": 45,
-    "oldPrice": 0,
-    "discountPercentage": "54",
-    "category": "hgjh",
-    "image": "",
-    "images": [
-      {
-        "alt": "Capture d’écran 2026-04-22 203030.png"
-      }
-    ],
-    "publishedAt": "2026-04-22T20:08:11.183Z"
   }
 ]
