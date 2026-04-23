@@ -1,0 +1,56 @@
+{
+  "title": "اسم المنتج ",
+  "price": 1000,
+  "oldPrice": 1500,
+  "discountPercentage": "34",
+  "description": "الوصف المختصر ",
+  "detailedDescription": "<span style=\"color: rgb(148, 163, 184); font-size: 13px; font-weight: 600; text-align: right; background-color: rgba(30, 41, 59, 0.85);\">الوصف التفصيلي</span>",
+  "metaDescription": "Meta Description (SEO)",
+  "features": "المميزات",
+  "benefits": "الفوائد",
+  "labels": [
+    ""
+  ],
+  "category": "Serrure intelligente",
+  "slug": "dashboard-products",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776957414/zxkgdxpwevcvtgntdjfx.webp",
+      "alt": "backyard-studio-designed-as-a-professional-YouTube.webp"
+    },
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776957417/sfjt6zvsfpxltslxbtub.webp",
+      "alt": "high-tech-indoor-hydroponic-greenhouse.webp"
+    }
+  ],
+  "name": "اسم المنتج ",
+  "publishedAt": "2026-04-23T15:17:00.549Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "اسم المنتج ",
+    "description": "Meta Description (SEO)",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1776957414/zxkgdxpwevcvtgntdjfx.webp",
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1776957417/sfjt6zvsfpxltslxbtub.webp"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 1000,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/dashboard-products"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
