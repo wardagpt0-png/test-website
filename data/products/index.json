@@ -1,26 +1,5 @@
 [
   {
-    "slug": "dashboard-products",
-    "title": "اسم المنتج ",
-    "name": "اسم المنتج ",
-    "price": 1000,
-    "oldPrice": 1500,
-    "discountPercentage": "34",
-    "category": "Tourniquet tripode",
-    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776957414/zxkgdxpwevcvtgntdjfx.webp",
-    "images": [
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776957414/zxkgdxpwevcvtgntdjfx.webp",
-        "alt": "backyard-studio-designed-as-a-professional-YouTube.webp"
-      },
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776957417/sfjt6zvsfpxltslxbtub.webp",
-        "alt": "high-tech-indoor-hydroponic-greenhouse.webp"
-      }
-    ],
-    "publishedAt": "2026-04-23T15:23:16.319Z"
-  },
-  {
     "slug": "ast",
     "title": "first ",
     "name": "first ",
