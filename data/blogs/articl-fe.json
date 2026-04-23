@@ -1,6 +1,6 @@
 {
   "title": "Titre de l'article *",
-  "content": "m",
+  "content": "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
   "metaDescription": "Meta Description (SEO)",
   "labels": [
     "Catégories (séparées par virgule)"
@@ -13,13 +13,13 @@
     }
   ],
   "name": "Titre de l'article *",
-  "publishedAt": "2026-04-23T23:26:25.726Z",
+  "publishedAt": "2026-04-23T23:26:47.575Z",
   "schema": {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "Titre de l'article *",
     "description": "Meta Description (SEO)",
-    "datePublished": "2026-04-23T23:26:25.726Z",
+    "datePublished": "2026-04-23T23:26:47.577Z",
     "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776980513/j2yqfqsxhm7nnxaipypm.jpg"
   }
 }
