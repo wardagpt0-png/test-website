@@ -168,21 +168,5 @@
       }
     ],
     "publishedAt": "2026-04-22T20:08:11.183Z"
-  },
-  {
-    "slug": "hfgh",
-    "title": "hf",
-    "name": "hf",
-    "price": 445,
-    "oldPrice": 45,
-    "discountPercentage": "45",
-    "category": "45",
-    "image": "",
-    "images": [
-      {
-        "alt": "Capture d’écran 2026-04-22 030314.png"
-      }
-    ],
-    "publishedAt": "2026-04-22T20:02:30.603Z"
   }
 ]
