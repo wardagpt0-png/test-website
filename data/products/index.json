@@ -120,21 +120,5 @@
       }
     ],
     "publishedAt": "2026-04-22T20:43:01.523Z"
-  },
-  {
-    "slug": "jghj",
-    "title": "jgh",
-    "name": "jgh",
-    "price": 45,
-    "oldPrice": 54,
-    "discountPercentage": "14",
-    "category": "^p*",
-    "image": "",
-    "images": [
-      {
-        "alt": "Capture d’écran 2026-04-22 172505.png"
-      }
-    ],
-    "publishedAt": "2026-04-22T20:28:09.474Z"
   }
 ]
