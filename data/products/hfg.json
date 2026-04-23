@@ -1,0 +1,51 @@
+{
+  "title": "gdhgf",
+  "price": 545,
+  "oldPrice": 48,
+  "discountPercentage": "45",
+  "description": "klmklm",
+  "detailedDescription": "mkl",
+  "metaDescription": "mlkl",
+  "features": "klm",
+  "benefits": "klm",
+  "labels": [
+    "klm"
+  ],
+  "category": "4mj",
+  "slug": "hfg",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776903573/vcs4gq4jecc2w95e6eh5.webp",
+      "alt": "featuring-a-smart-display-screen-mounted-on-the wall.webp"
+    }
+  ],
+  "name": "gdhgf",
+  "publishedAt": "2026-04-23T00:19:37.906Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "gdhgf",
+    "description": "mlkl",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1776903573/vcs4gq4jecc2w95e6eh5.webp"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 545,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/hfg"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
