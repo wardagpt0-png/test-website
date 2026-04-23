@@ -1,5 +1,22 @@
 [
   {
+    "slug": "Serrure-Digitale-x5-2026",
+    "title": "Serrure Digitale x5 2026",
+    "name": "Serrure Digitale x5 2026",
+    "price": 1790,
+    "oldPrice": 2400,
+    "discountPercentage": "23",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776963366/u0q0mm5h1sdssyhw64ea.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776963366/u0q0mm5h1sdssyhw64ea.png",
+        "alt": "Capture d’écran 2026-04-23 175434.png"
+      }
+    ],
+    "publishedAt": "2026-04-23T17:38:50.950Z"
+  },
+  {
     "slug": "Serrure-Digitale-X9-2026",
     "title": "Serrure Digitale X9 2026",
     "name": "Serrure Digitale X9 2026",
@@ -15,30 +32,5 @@
       }
     ],
     "publishedAt": "2026-04-23T17:38:39.731Z"
-  },
-  {
-    "slug": "Serrure-Digitale-x5-2026",
-    "title": "Serrure Digitale x5 2026",
-    "name": "Serrure Digitale x5 2026",
-    "price": 1790,
-    "oldPrice": 2400,
-    "discountPercentage": "23",
-    "category": "Serrure intelligente",
-    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776963352/azpopqenqve2m8mq4dmc.png",
-    "images": [
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776963352/azpopqenqve2m8mq4dmc.png",
-        "alt": "Capture d’écran 2026-04-23 175534.png"
-      },
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776963355/znryttzhq3gfenywtsjq.png",
-        "alt": "Capture d’écran 2026-04-23 175518.png"
-      },
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776963366/u0q0mm5h1sdssyhw64ea.png",
-        "alt": "Capture d’écran 2026-04-23 175434.png"
-      }
-    ],
-    "publishedAt": "2026-04-23T16:56:09.184Z"
   }
 ]
