@@ -1,0 +1,25 @@
+{
+  "title": "Titre de l'article *",
+  "content": "sas",
+  "metaDescription": "Meta Description (SEO)",
+  "labels": [
+    "Catégories (séparées par virgule)"
+  ],
+  "slug": "articl-fe",
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776980513/j2yqfqsxhm7nnxaipypm.jpg",
+      "alt": "Image_fx (3).png"
+    }
+  ],
+  "name": "Titre de l'article *",
+  "publishedAt": "2026-04-23T21:42:27.646Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Titre de l'article *",
+    "description": "Meta Description (SEO)",
+    "datePublished": "2026-04-23T21:42:27.646Z",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776980513/j2yqfqsxhm7nnxaipypm.jpg"
+  }
+}
