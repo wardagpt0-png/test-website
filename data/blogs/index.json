@@ -1,7 +1,15 @@
 [
   {
-    "slug": "sas-1776820014909",
-    "title": "sas",
-    "publishedAt": "2026-04-22T01:06:54.909Z"
+    "slug": "articl-fe",
+    "title": "Titre de l'article *",
+    "name": "Titre de l'article *",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776980513/j2yqfqsxhm7nnxaipypm.jpg",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776980513/j2yqfqsxhm7nnxaipypm.jpg",
+        "alt": "Image_fx (3).png"
+      }
+    ],
+    "publishedAt": "2026-04-23T21:42:27.646Z"
   }
 ]
