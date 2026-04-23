@@ -1,22 +1,5 @@
 [
   {
-    "slug": "dfg",
-    "title": "gdfgdf",
-    "name": "gdfgdf",
-    "price": 159,
-    "oldPrice": 25,
-    "discountPercentage": "4",
-    "category": "dfgd",
-    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776903150/lqmnjggt0vab6zodlszr.jpg",
-    "images": [
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776903150/lqmnjggt0vab6zodlszr.jpg",
-        "alt": "woman-on-a-football-field.jpg"
-      }
-    ],
-    "publishedAt": "2026-04-23T00:12:49.425Z"
-  },
-  {
     "slug": "sfd",
     "title": "sdq",
     "name": "sdq",
