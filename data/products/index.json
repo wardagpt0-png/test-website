@@ -74,22 +74,5 @@
       }
     ],
     "publishedAt": "2026-04-22T20:57:14.610Z"
-  },
-  {
-    "slug": "fhg",
-    "title": "bh",
-    "name": "bh",
-    "price": 545,
-    "oldPrice": 45,
-    "discountPercentage": "4",
-    "category": "5",
-    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776890683/txtjjverktmflhplbtnb.jpg",
-    "images": [
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776890683/txtjjverktmflhplbtnb.jpg",
-        "alt": "woman-on-a-football-field.jpg"
-      }
-    ],
-    "publishedAt": "2026-04-22T20:45:01.995Z"
   }
 ]
