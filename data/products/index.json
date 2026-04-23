@@ -6,7 +6,7 @@
     "price": 1000,
     "oldPrice": 1500,
     "discountPercentage": "34",
-    "category": "Pointeuse biométrique",
+    "category": "Tourniquet tripode",
     "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776957414/zxkgdxpwevcvtgntdjfx.webp",
     "images": [
       {
@@ -18,7 +18,7 @@
         "alt": "high-tech-indoor-hydroponic-greenhouse.webp"
       }
     ],
-    "publishedAt": "2026-04-23T15:20:25.617Z"
+    "publishedAt": "2026-04-23T15:23:16.319Z"
   },
   {
     "slug": "ast",
