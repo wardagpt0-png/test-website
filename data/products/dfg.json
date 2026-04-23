@@ -1,0 +1,51 @@
+{
+  "title": "gdfgdf",
+  "price": 159,
+  "oldPrice": 25,
+  "discountPercentage": "4",
+  "description": "gdfg",
+  "detailedDescription": "df",
+  "metaDescription": "dfg",
+  "features": "gdfg",
+  "benefits": "fgdf",
+  "labels": [
+    "dfg"
+  ],
+  "category": "dfgd",
+  "slug": "dfg",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776903150/lqmnjggt0vab6zodlszr.jpg",
+      "alt": "woman-on-a-football-field.jpg"
+    }
+  ],
+  "name": "gdfgdf",
+  "publishedAt": "2026-04-23T00:12:49.425Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "gdfgdf",
+    "description": "dfg",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1776903150/lqmnjggt0vab6zodlszr.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 159,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/dfg"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
