@@ -1,5 +1,22 @@
 [
   {
+    "slug": "ast",
+    "title": "first ",
+    "name": "first ",
+    "price": 45,
+    "oldPrice": 550,
+    "discountPercentage": "14",
+    "category": "Coffre Fort",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776921446/ykc0hjgmvlndzvblsz2j.webp",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776921446/ykc0hjgmvlndzvblsz2j.webp",
+        "alt": "preview.webp"
+      }
+    ],
+    "publishedAt": "2026-04-23T05:17:28.912Z"
+  },
+  {
     "slug": "smal01-wa",
     "title": "smal01",
     "name": "smal01",
