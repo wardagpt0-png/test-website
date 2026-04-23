@@ -17,28 +17,18 @@
   "reviewCount": 50,
   "images": [
     {
-      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776963352/azpopqenqve2m8mq4dmc.png",
-      "alt": "Capture d’écran 2026-04-23 175534.png"
-    },
-    {
-      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776963355/znryttzhq3gfenywtsjq.png",
-      "alt": "Capture d’écran 2026-04-23 175518.png"
-    },
-    {
       "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776963366/u0q0mm5h1sdssyhw64ea.png",
       "alt": "Capture d’écran 2026-04-23 175434.png"
     }
   ],
   "name": "Serrure Digitale x5 2026",
-  "publishedAt": "2026-04-23T16:56:09.184Z",
+  "publishedAt": "2026-04-23T17:38:50.950Z",
   "schema": {
     "@context": "https://schema.org",
     "@type": "Product",
     "name": "Serrure Digitale x5 2026",
     "description": "yrt",
     "image": [
-      "https://res.cloudinary.com/dyzhlriym/image/upload/v1776963352/azpopqenqve2m8mq4dmc.png",
-      "https://res.cloudinary.com/dyzhlriym/image/upload/v1776963355/znryttzhq3gfenywtsjq.png",
       "https://res.cloudinary.com/dyzhlriym/image/upload/v1776963366/u0q0mm5h1sdssyhw64ea.png"
     ],
     "brand": {
