@@ -7,9 +7,14 @@
     "oldPrice": 3390,
     "discountPercentage": "23%",
     "category": "Serrure intelligente",
-    "image": "",
-    "images": [],
-    "publishedAt": "2026-04-24T23:42:04.892Z"
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777074135/tx0lvecigxx1tepxsjsg.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777074135/tx0lvecigxx1tepxsjsg.png",
+        "alt": "Serrure digitale slim connectée Tuya & TTLOCK BLE, avec biométrie et contrôle smartphone. Design épuré, compatible portes alu et bois."
+      }
+    ],
+    "publishedAt": "2026-04-24T23:42:16.911Z"
   },
   {
     "slug": "serrure-digital-x5-pro",
