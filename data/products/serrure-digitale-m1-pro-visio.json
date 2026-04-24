@@ -1,0 +1,51 @@
+{
+  "title": "SERRURE DIGITALE M1 PRO Visio",
+  "price": 2390,
+  "oldPrice": 3900,
+  "discountPercentage": "38%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    SERRURE DIGITALE M1 PRO Visio\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    La M1 PRO Visio redéfinit les standards de la sécurité résidentielle et professionnelle au Maroc. Alliant technologie biométrique avancée et caméra HD intégrée, elle offre une protection totale avec une élégance irréprochable. Chaque accès est contrôlé, enregistré et sécurisé — pour une tranquillité d'esprit absolue.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Caméra HD intégrée — capture automatique en cas de tentative d'intrusion ou d'accès non autorisé</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Reconnaissance biométrique par empreinte digitale — accès instantané, sans clé ni code</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Code PIN personnalisé — protection par mot de passe avec clavier tactile intégré</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Compatibilité carte IC — déverrouillage par badge avec écran d'affichage dédié</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Batterie longue durée — 8 compartiments à piles pour une autonomie maximale</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Alimentation d'urgence USB — ne restez jamais bloqué, même en cas de pile déchargée</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Cylindre mécanique de secours — ouverture par clé physique en cas de panne électronique</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Marque marocaine de confiance, spécialisée en sécurité digitale haut de gamme depuis des années</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Service après-vente réactif avec assistance technique dédiée à travers tout le Maroc</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Produits certifiés, testés et garantis — installation professionnelle disponible sur demande</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &bull; 💳 Paiement à la livraison &bull; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "Serrure Digitale M1 PRO Visio à 2390 MAD au Maroc. Caméra HD, empreinte digitale, carte IC. Livraison gratuite. BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Serrure intelligente",
+  "slug": "serrure-digitale-m1-pro-visio",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777073173/rxwvrqqthjvfqx5rqquf.png",
+      "alt": "Serrure digitale haut de gamme avec caméra HD intégrée, reconnaissance biométrique et 6 modes d'accès. Sécurité intelligente, design premium."
+    }
+  ],
+  "name": "SERRURE DIGITALE M1 PRO Visio",
+  "publishedAt": "2026-04-24T23:26:16.831Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SERRURE DIGITALE M1 PRO Visio",
+    "description": "Serrure Digitale M1 PRO Visio à 2390 MAD au Maroc. Caméra HD, empreinte digitale, carte IC. Livraison gratuite. BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777073173/rxwvrqqthjvfqx5rqquf.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 2390,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/serrure-digitale-m1-pro-visio"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
