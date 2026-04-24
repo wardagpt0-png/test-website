@@ -1,0 +1,51 @@
+{
+  "title": "Serrure digital x5 pro",
+  "price": 1690,
+  "oldPrice": 2290,
+  "discountPercentage": "26%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    Serrure Digital X5 Pro\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    La X5 Pro est la serrure intelligente pensée pour ceux qui exigent sécurité, confort et contrôle total — depuis n'importe où au Maroc. Connectée à votre smartphone, elle transforme la gestion des accès en une expérience fluide, intuitive et entièrement personnalisable. Une technologie de pointe au service de votre tranquillité d'esprit, 24h/24.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Contrôle à distance via application smartphone — surveillez et gérez votre serrure depuis partout</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Reconnaissance biométrique par empreinte digitale — accès immédiat, sans clé physique</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Déverrouillage par code PIN personnalisé — partageable temporairement avec vos invités ou prestataires</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Planification d'accès sur mesure — programmez des plages horaires précises pour chaque utilisateur</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Alertes en temps réel — notifications instantanées sur votre téléphone à chaque tentative d'accès</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Partage d'accès sécurisé — accordez ou révoquez les droits d'entrée en quelques secondes depuis l'app</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Marque marocaine de référence en sécurité digitale, avec un accompagnement client de proximité</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Application intuitive en français, conçue pour une prise en main rapide sans compétence technique</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Garantie produit et support après-vente disponible dans tout le Maroc — installation professionnelle sur demande</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &bull; 💳 Paiement à la livraison &bull; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "Serrure Digital X5 Pro à 1690 MAD au Maroc. Contrôle smartphone, empreinte digitale, alertes temps réel. Livraison gratuite. BALENCIA.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Serrure intelligente",
+  "slug": "serrure-digital-x5-pro",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777073842/n5cod5occlokruzcm0n4.png",
+      "alt": "Serrure intelligente connectée avec contrôle via smartphone, empreinte digitale et alertes en temps réel. Accès total, sécurité absolue."
+    }
+  ],
+  "name": "Serrure digital x5 pro",
+  "publishedAt": "2026-04-24T23:37:28.901Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Serrure digital x5 pro",
+    "description": "Serrure Digital X5 Pro à 1690 MAD au Maroc. Contrôle smartphone, empreinte digitale, alertes temps réel. Livraison gratuite. BALENCIA.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777073842/n5cod5occlokruzcm0n4.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 1690,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/serrure-digital-x5-pro"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
