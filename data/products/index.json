@@ -1,5 +1,22 @@
 [
   {
+    "slug": "serrure-digital-x5-pro",
+    "title": "Serrure digital x5 pro",
+    "name": "Serrure digital x5 pro",
+    "price": 1690,
+    "oldPrice": 2290,
+    "discountPercentage": "26%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777073842/n5cod5occlokruzcm0n4.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777073842/n5cod5occlokruzcm0n4.png",
+        "alt": "Serrure intelligente connectée avec contrôle via smartphone, empreinte digitale et alertes en temps réel. Accès total, sécurité absolue."
+      }
+    ],
+    "publishedAt": "2026-04-24T23:37:28.901Z"
+  },
+  {
     "slug": "serrure-digitale-m1-pro-visio",
     "title": "SERRURE DIGITALE M1 PRO Visio",
     "name": "SERRURE DIGITALE M1 PRO Visio",
