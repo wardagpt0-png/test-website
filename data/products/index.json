@@ -1,5 +1,22 @@
 [
   {
+    "slug": "serrure-digitale-m1-pro-visio",
+    "title": "SERRURE DIGITALE M1 PRO Visio",
+    "name": "SERRURE DIGITALE M1 PRO Visio",
+    "price": 2390,
+    "oldPrice": 3900,
+    "discountPercentage": "38%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777073173/rxwvrqqthjvfqx5rqquf.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777073173/rxwvrqqthjvfqx5rqquf.png",
+        "alt": "Serrure digitale haut de gamme avec caméra HD intégrée, reconnaissance biométrique et 6 modes d'accès. Sécurité intelligente, design premium."
+      }
+    ],
+    "publishedAt": "2026-04-24T23:26:16.831Z"
+  },
+  {
     "slug": "fgdfg",
     "title": "fgd",
     "name": "fgd",
