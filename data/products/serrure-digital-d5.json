@@ -15,15 +15,22 @@
   "slug": "serrure-digital-d5",
   "rating": 4.8,
   "reviewCount": 50,
-  "images": [],
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777074135/tx0lvecigxx1tepxsjsg.png",
+      "alt": "Serrure digitale slim connectée Tuya & TTLOCK BLE, avec biométrie et contrôle smartphone. Design épuré, compatible portes alu et bois."
+    }
+  ],
   "name": "Serrure Digital D5",
-  "publishedAt": "2026-04-24T23:42:04.892Z",
+  "publishedAt": "2026-04-24T23:42:16.911Z",
   "schema": {
     "@context": "https://schema.org",
     "@type": "Product",
     "name": "Serrure Digital D5",
     "description": "Serrure Digital D5 à 2590 MAD au Maroc. Biométrie, app Tuya, technologie BLE pour portes slim. Livraison gratuite. BALENCIA Smart Security.",
-    "image": [],
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777074135/tx0lvecigxx1tepxsjsg.png"
+    ],
     "brand": {
       "@type": "Brand",
       "name": "BALENCIA"
