@@ -1,5 +1,22 @@
 [
   {
+    "slug": "zkp8005-imprimante-thermique",
+    "title": "ZKP8005 Imprimante Thermique",
+    "name": "ZKP8005 Imprimante Thermique",
+    "price": 990,
+    "oldPrice": 1200,
+    "discountPercentage": " 17%",
+    "category": "Imprimante Thermique",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777149441/fhlrf6lqkthy9d49krmc.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777149441/fhlrf6lqkthy9d49krmc.png",
+        "alt": "Imprimante thermique ZKP5803 : codes-barres 1D & QR, 21 langues, logo BMP personnalisable et densité réglable. Impression professionnelle, fiable et rapide."
+      }
+    ],
+    "publishedAt": "2026-04-25T20:37:23.461Z"
+  },
+  {
     "slug": "imprimante-thermique-zkp5803",
     "title": "ZKP5803",
     "name": "ZKP5803",
