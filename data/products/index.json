@@ -1,5 +1,22 @@
 [
   {
+    "slug": "ss",
+    "title": "ss",
+    "name": "ss",
+    "price": 478,
+    "oldPrice": 875,
+    "discountPercentage": "12",
+    "category": "Tourniquet tripode",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777157639/caddithy10qzfz2wbmz5.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777157639/caddithy10qzfz2wbmz5.png",
+        "alt": "imprimante-thermique-zkp580.png"
+      }
+    ],
+    "publishedAt": "2026-04-25T22:54:01.571Z"
+  },
+  {
     "slug": "imprimante-thermique-zkp8013",
     "title": "ZKP8013 Imprimante Thermique",
     "name": "ZKP8013 Imprimante Thermique",
