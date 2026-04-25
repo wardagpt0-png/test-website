@@ -1,5 +1,22 @@
 [
   {
+    "slug": "speedface-v3l-lite-terminal-facial-multi-authentification-ip65",
+    "title": "SpeedFace-V3L (Lite)",
+    "name": "SpeedFace-V3L (Lite)",
+    "price": 2390,
+    "oldPrice": 2790,
+    "discountPercentage": "14%",
+    "category": "Contrôle d'accès",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145011/itifz199tpcdsjuk4xta.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145011/itifz199tpcdsjuk4xta.png",
+        "alt": "Terminal facial IP65 Linux : reconnaissance faciale, RFID et PIN, vidéophone HD ZSmart. 200 000 logs, éclairage adaptatif. Accès intelligent au Maroc."
+      }
+    ],
+    "publishedAt": "2026-04-25T19:23:33.481Z"
+  },
+  {
     "slug": "prima-qr-face-id-terminal-biometrique-autonome-ip66",
     "title": "ProMA-QR FACE ID",
     "name": "ProMA-QR FACE ID",
