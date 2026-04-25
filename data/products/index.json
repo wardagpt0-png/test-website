@@ -1,5 +1,22 @@
 [
   {
+    "slug": "lecteur-biometrique-controle-acces-f22-zkteco",
+    "title": "F22",
+    "name": "F22",
+    "price": 1690,
+    "oldPrice": 2990,
+    "discountPercentage": "43%)",
+    "category": "Contrôle d'accès porte",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777140224/wga56il1kwaolzhegvru.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777140224/wga56il1kwaolzhegvru.png",
+        "alt": "Lecteur biométrique ZKTeco F22 : 3 000 empreintes, Wi-Fi & TCP/IP, compatible tout panneau Wiegand. Contrôle d'accès porte premium pour entreprises au Maroc."
+      }
+    ],
+    "publishedAt": "2026-04-25T18:03:47.227Z"
+  },
+  {
     "slug": "pointeuse-biometrique-empreintes-in01-a-zkteco",
     "title": "IN01",
     "name": "IN01",
