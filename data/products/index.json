@@ -1,5 +1,22 @@
 [
   {
+    "slug": "lecteur-empreintes-digitales-exterieur-fr1500s-zkteco",
+    "title": "FR1500S lecteur d’empreintes digitales",
+    "name": "FR1500S lecteur d’empreintes digitales",
+    "price": 1390,
+    "oldPrice": 1890,
+    "discountPercentage": "26%",
+    "category": "Lecteurs contrôle d'accès",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777140706/f1rbnjrjaru9fcv1wmhf.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777140706/f1rbnjrjaru9fcv1wmhf.png",
+        "alt": "lecteur-empreintes-digitales-exterieur-fr1500s-zkteco.png"
+      }
+    ],
+    "publishedAt": "2026-04-25T18:11:49.476Z"
+  },
+  {
     "slug": "lecteur-biometrique-controle-acces-f18-zkteco",
     "title": "F18",
     "name": "F18",
