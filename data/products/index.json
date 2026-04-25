@@ -1,5 +1,22 @@
 [
   {
+    "slug": "sc800-terminal-rfid-etanche-exterieur-ip65-multi-cartes",
+    "title": "SC800",
+    "name": "SC800",
+    "price": 1870,
+    "oldPrice": 1970,
+    "discountPercentage": "6%",
+    "category": "Contrôle d'accès",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145187/zu5fbga4n0rvr0rt1rgk.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145187/zu5fbga4n0rvr0rt1rgk.png",
+        "alt": "Terminal RFID extérieur IP65/IK04, verre trempé 2.5D, écran couleur 2,4\", clavier tactile sans contact. Compatible 100+ types de cartes. Linux embarqué."
+      }
+    ],
+    "publishedAt": "2026-04-25T19:26:29.602Z"
+  },
+  {
     "slug": "speedface-v3l-lite-terminal-facial-multi-authentification-ip65",
     "title": "SpeedFace-V3L (Lite)",
     "name": "SpeedFace-V3L (Lite)",
