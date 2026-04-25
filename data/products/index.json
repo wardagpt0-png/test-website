@@ -1,5 +1,22 @@
 [
   {
+    "slug": "tourniquet-mars-pro-s1000",
+    "title": "Tourniquet MARS Pro-S1000",
+    "name": "Tourniquet MARS Pro-S1000",
+    "price": 15250,
+    "oldPrice": 16550,
+    "discountPercentage": "7%",
+    "category": "Tourniquet tripode",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777142640/t7adjz1mwigqiuz6wahu.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777142640/t7adjz1mwigqiuz6wahu.png",
+        "alt": "Tourniquet tripode haut de gamme ZKTeco, doté de 22 paires de capteurs infrarouges anti-talonnage. Contrôle d'accès intelligent, installation modulaire sans vis. Sécurité absolue."
+      }
+    ],
+    "publishedAt": "2026-04-25T18:44:02.959Z"
+  },
+  {
     "slug": "barriere-parking-automatique-bg1060",
     "title": "BG1060 Parking Barrier",
     "name": "BG1060 Parking Barrier",
