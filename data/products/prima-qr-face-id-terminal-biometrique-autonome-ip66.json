@@ -1,0 +1,51 @@
+{
+  "title": "ProMA-QR FACE ID",
+  "price": 5890,
+  "oldPrice": 6290,
+  "discountPercentage": "6%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    ProMA-QR Face ID — Terminal Multi-Biométrique Autonome Haute Résistance\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le ProMA-QR Face ID est le summum du contrôle d'accès biométrique extérieur : un terminal autonome en alliage d'aluminium moulé, certifié IP66 et IK07, capable d'opérer de -26°C à +55°C sans aucune défaillance. Sa capacité exceptionnelle — 30 000 visages, 50 000 cartes RFID, 500 000 enregistrements — combinée à une vitesse d'authentification inférieure à 0,3 seconde, en fait la référence absolue pour les sites industriels, institutionnels et résidentiels haut de gamme au Maroc. Intégré à la plateforme ZKBio CVSecurity, il centralise sécurité, surveillance et gestion d'accès en une seule solution.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Boîtier aluminium anti-vandalisme IK07 + IP66 — résistance totale aux chocs, à l'eau et à la poussière en extérieur</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Authentification 5-en-1 : reconnaissance faciale, empreinte digitale, paume sans contact, QR code mobile et RFID multi-cartes</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Capacité massive : 30 000 visages / 10 000 empreintes / 50 000 cartes RFID / 500 000 enregistrements de transactions</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Vitesse d'authentification record : 0,3 s (visage) / 0,35 s (paume) / 0,2 s (RFID) — fluidité maximale des accès</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Compatible ONVIF — fonctionne comme caméra de surveillance intégrée aux NVR et VMS tiers existants</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Vidéophone HD via application ZSmart & protocole SIP — communication visuelle sécurisée en temps réel</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Support PoE IEEE 802.3af/at, plus de 100 types de cartes RFID (HID, Legic, DESFire EV1/EV2, IC, ID…)</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Plage de température -26°C à +55°C — opérationnel dans tous les environnements climatiques marocains</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Intégrateur certifié ZKTeco au Maroc — déploiement du ProMA-QR adapté à votre infrastructure, de l'audit à la mise en service</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Maîtrise complète de l'écosystème ZKBio CVSecurity — gestion unifiée accès, présence et vidéosurveillance depuis une seule plateforme</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ SAV prioritaire, garantie officielle constructeur et maintenance préventive — continuité de service assurée 365 jours par an</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &nbsp;•&nbsp; 💳 Paiement à la livraison &nbsp;•&nbsp; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "ProMA-QR Face ID à 5 890 MAD — Terminal biométrique IP66 facial, QR code & RFID 30 000 visages au Maroc. Livraison gratuite. BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Contrôle d'accès",
+  "slug": "prima-qr-face-id-terminal-biometrique-autonome-ip66",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777144843/s8mecajjx72uswjcrxl7.png",
+      "alt": "Terminal multi-biométrique ultra-robuste IP66/IK07 : Face ID, QR code, RFID, paume. 30 000 visages, authentification en 0,3 s. Extérieur extrême."
+    }
+  ],
+  "name": "ProMA-QR FACE ID",
+  "publishedAt": "2026-04-25T19:20:45.400Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "ProMA-QR FACE ID",
+    "description": "ProMA-QR Face ID à 5 890 MAD — Terminal biométrique IP66 facial, QR code & RFID 30 000 visages au Maroc. Livraison gratuite. BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777144843/s8mecajjx72uswjcrxl7.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 5890,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/prima-qr-face-id-terminal-biometrique-autonome-ip66"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
