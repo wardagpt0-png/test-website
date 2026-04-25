@@ -1,5 +1,26 @@
 [
   {
+    "slug": "barriere-parking-automatique-bg1060",
+    "title": "BG1060 Parking Barrier",
+    "name": "BG1060 Parking Barrier",
+    "price": 9490,
+    "oldPrice": 9990,
+    "discountPercentage": "5%",
+    "category": "Tourniquet tripode",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777141111/mmdbs01cvnzgs5zk9y8a.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777141111/mmdbs01cvnzgs5zk9y8a.png",
+        "alt": "Barrière de parking BG1060 : moteur brushless 24V, bras pliant 3,5 m, ouverture ultra-rapide en 0,5 s. Protection IP54 pour parkings professionnels au Maroc."
+      },
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777141118/xv8mnqzgbzvs8tguqwbf.png",
+        "alt": "barriere-parking-automatique-bg1060-1.png"
+      }
+    ],
+    "publishedAt": "2026-04-25T18:18:49.103Z"
+  },
+  {
     "slug": "lecteur-empreintes-digitales-exterieur-fr1500s-zkteco",
     "title": "FR1500S lecteur d’empreintes digitales",
     "name": "FR1500S lecteur d’empreintes digitales",
