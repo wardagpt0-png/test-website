@@ -1,5 +1,22 @@
 [
   {
+    "slug": "serrure-digitale-mini-m1-pro",
+    "title": "SERRURE DIGITALE MINI M1 PRO",
+    "name": "SERRURE DIGITALE MINI M1 PRO",
+    "price": 1990,
+    "oldPrice": 3900,
+    "discountPercentage": "48%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777133857/dio0sh9yxs02scvlkeox.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777133857/dio0sh9yxs02scvlkeox.png",
+        "alt": "Serrure compacte Mini M1 Pro avec caméra HD, empreinte digitale, carte IC et secours USB. Grande sécurité dans un format minimaliste et élégant."
+      }
+    ],
+    "publishedAt": "2026-04-25T16:17:39.680Z"
+  },
+  {
     "slug": "face-id-luxury-x12",
     "title": "Face id luxury X12",
     "name": "Face id luxury X12",
