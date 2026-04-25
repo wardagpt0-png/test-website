@@ -1,0 +1,56 @@
+{
+  "title": "BG1060 Parking Barrier",
+  "price": 9490,
+  "oldPrice": 9990,
+  "discountPercentage": "5%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">BG1060 — Barrière de Parking Automatique Haute Vitesse</h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    La BG1060 est une barrière levante de parking conçue pour les environnements professionnels qui exigent rapidité, robustesse et fiabilité sans faille. Propulsée par un moteur brushless 24V DC de dernière génération, elle déploie son bras pliant de 3,5 mètres en seulement 0,5 seconde — un niveau de performance qui fluidifie le trafic entrant et sortant sans temps d'attente perceptible. Certifiée IP54 et alimentée en 220V AC standard, la BG1060 s'intègre parfaitement dans tout projet de sécurisation de parking résidentiel, commercial ou institutionnel au Maroc.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">CARACTÉRISTIQUES TECHNIQUES</h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Moteur brushless 24V DC — longévité accrue, fonctionnement silencieux et maintenance quasi nulle</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Bras pliant de 3,5 m — gain de place optimal, idéal pour les accès à gabarit standard ou restreint</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Vitesse d'ouverture/fermeture : 0,5 seconde — fluidité maximale du trafic véhicules à haute fréquence de passage</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Protection IP54 — résistance certifiée aux projections d'eau et à la poussière pour installation extérieure durable</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Alimentation 220V AC / 120W — raccordement standard, consommation maîtrisée pour un fonctionnement en continu</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Compatible avec systèmes de contrôle d'accès, télécomandeş badges et lecteurs de plaques — intégration système complète</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">POURQUOI CHOISIR BALENCIA ?</h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Installation professionnelle clé en main — étude de site, pose, câblage et mise en service assurés par nos techniciens certifiés partout au Maroc</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Intégration sur mesure — la BG1060 est configurée par BALENCIA pour fonctionner en parfaite synergie avec votre système de contrôle d'accès existant (badges, biométrie, télécommande)</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ SAV prioritaire & garantie constructeur — intervention rapide et pièces disponibles pour assurer la continuité de votre sécurité périmétrique sans interruption</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">🚚 Livraison gratuite partout au Maroc • 💳 Paiement à la livraison • 🔄 Retour gratuit sous 14 jours</p>\n  </div>\n\n</div>",
+  "metaDescription": "BG1060 Parking Barrier – Barrière levante automatique à 9 490 MAD. Livraison gratuite au Maroc. Bras 3,5 m, 0,5 s, IP54 — BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Tourniquet tripode",
+  "slug": "barriere-parking-automatique-bg1060",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777141111/mmdbs01cvnzgs5zk9y8a.png",
+      "alt": "Barrière de parking BG1060 : moteur brushless 24V, bras pliant 3,5 m, ouverture ultra-rapide en 0,5 s. Protection IP54 pour parkings professionnels au Maroc."
+    },
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777141118/xv8mnqzgbzvs8tguqwbf.png",
+      "alt": "barriere-parking-automatique-bg1060-1.png"
+    }
+  ],
+  "name": "BG1060 Parking Barrier",
+  "publishedAt": "2026-04-25T18:18:49.103Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "BG1060 Parking Barrier",
+    "description": "BG1060 Parking Barrier – Barrière levante automatique à 9 490 MAD. Livraison gratuite au Maroc. Bras 3,5 m, 0,5 s, IP54 — BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777141111/mmdbs01cvnzgs5zk9y8a.png",
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777141118/xv8mnqzgbzvs8tguqwbf.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 9490,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/barriere-parking-automatique-bg1060"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
