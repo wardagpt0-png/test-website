@@ -1,5 +1,22 @@
 [
   {
+    "slug": "pa22-terminal-palmaire-sans-contact-3-en-1-armatura",
+    "title": "PA22",
+    "name": "PA22",
+    "price": 2340,
+    "oldPrice": 2840,
+    "discountPercentage": " 17%",
+    "category": "Contrôle d'accès",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145335/j8uoagcvuy1mcjbg9ydj.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145335/j8uoagcvuy1mcjbg9ydj.png",
+        "alt": "Terminal palmaire sans contact 3-en-1 : veines, empreinte et forme de la main reconnues simultanément. Technologie ARMATURA, hygiénique et ultra-précis."
+      }
+    ],
+    "publishedAt": "2026-04-25T19:28:57.152Z"
+  },
+  {
     "slug": "sc800-terminal-rfid-etanche-exterieur-ip65-multi-cartes",
     "title": "SC800",
     "name": "SC800",
