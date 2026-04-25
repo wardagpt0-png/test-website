@@ -1,5 +1,22 @@
 [
   {
+    "slug": "terminal-biometrique-facial-eface10-zkteco",
+    "title": "EFace10",
+    "name": "EFace10",
+    "price": 1550,
+    "oldPrice": 1950,
+    "discountPercentage": "20%",
+    "category": "Pointeuse biométrique",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777139319/fopctsyf1eq3ebomclqq.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777139319/fopctsyf1eq3ebomclqq.png",
+        "alt": "Terminal facial sans contact EFace10 : Deep Learning anti-fraude, reconnaissance proactive longue distance. Hygiène et sécurité absolues pour entreprises au Maroc."
+      }
+    ],
+    "publishedAt": "2026-04-25T17:49:11.066Z"
+  },
+  {
     "slug": "lecteur-biometrique-facial-kf1000-zkteco",
     "title": "KF1000",
     "name": "KF1000",
