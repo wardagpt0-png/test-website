@@ -1,5 +1,22 @@
 [
   {
+    "slug": "coffre-fort-intelligent-w45",
+    "title": "Coffre-Fort Intelligent W-45",
+    "name": "Coffre-Fort Intelligent W-45",
+    "price": 3488,
+    "oldPrice": 4970,
+    "discountPercentage": "29%",
+    "category": "Coffre Fort",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777135335/tul3aabbkpz4kjsqca1r.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777135335/tul3aabbkpz4kjsqca1r.png",
+        "alt": "Coffre-fort connecté W-45 : empreinte digitale en 0,5 sec, app Tuya, code anti-espionnage et structure blindée motorisée. Protection maximale, accès instantané."
+      }
+    ],
+    "publishedAt": "2026-04-25T16:42:17.327Z"
+  },
+  {
     "slug": "poignee-digital-x13-ai",
     "title": "Poignée Digital X13 Ai",
     "name": "Poignée Digital X13 Ai",
