@@ -1,5 +1,22 @@
 [
   {
+    "slug": "ma300-terminal-biometrique-waterproof-empreinte-rfid",
+    "title": "MA300 Waterproof Fingerprint and RFID Cards Terminal",
+    "name": "MA300 Waterproof Fingerprint and RFID Cards Terminal",
+    "price": 1390,
+    "oldPrice": 1990,
+    "discountPercentage": "30%",
+    "category": "Contrôle d'accès",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145508/jqnree1qpiblgt0urmnc.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145508/jqnree1qpiblgt0urmnc.png",
+        "alt": "Terminal biométrique IP65 empreinte + RFID, boîtier zinc anti-vandalisme. TCP/IP, RS485, Wiegand — contrôle d'accès intérieur/extérieur sans compromis."
+      }
+    ],
+    "publishedAt": "2026-04-25T19:31:50.691Z"
+  },
+  {
     "slug": "pa22-terminal-palmaire-sans-contact-3-en-1-armatura",
     "title": "PA22",
     "name": "PA22",
