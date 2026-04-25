@@ -1,5 +1,22 @@
 [
   {
+    "slug": "prima-qr-face-id-terminal-biometrique-autonome-ip66",
+    "title": "ProMA-QR FACE ID",
+    "name": "ProMA-QR FACE ID",
+    "price": 5890,
+    "oldPrice": 6290,
+    "discountPercentage": "6%",
+    "category": "Contrôle d'accès",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777144843/s8mecajjx72uswjcrxl7.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777144843/s8mecajjx72uswjcrxl7.png",
+        "alt": "Terminal multi-biométrique ultra-robuste IP66/IK07 : Face ID, QR code, RFID, paume. 30 000 visages, authentification en 0,3 s. Extérieur extrême."
+      }
+    ],
+    "publishedAt": "2026-04-25T19:20:45.400Z"
+  },
+  {
     "slug": "speedface-v5l-terminal-biometrique-facial-multi-authentification",
     "title": "SpeedFace-V5L",
     "name": "SpeedFace-V5L",
