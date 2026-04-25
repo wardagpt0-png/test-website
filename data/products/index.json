@@ -1,5 +1,22 @@
 [
   {
+    "slug": "poignee-digital-x5",
+    "title": "Poignée Digital X5",
+    "name": "Poignée Digital X5",
+    "price": 1890,
+    "oldPrice": 3000,
+    "discountPercentage": "37%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777132754/ity7qgiedeam5pireng8.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777132754/ity7qgiedeam5pireng8.png",
+        "alt": "Poignée connectée X5 avec 5 modes d'accès : empreinte, carte, code PIN, smartphone et clé. Contrôle total à distance, autonomie 1 à 2 ans."
+      }
+    ],
+    "publishedAt": "2026-04-25T15:59:16.417Z"
+  },
+  {
     "slug": "poignee-digital-x5-slim-2025",
     "title": "Poignée Digital X5 slim 2025",
     "name": "Poignée Digital X5 slim 2025",
