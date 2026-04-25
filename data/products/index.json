@@ -1,22 +1,5 @@
 [
   {
-    "slug": "URL du produit (slug)",
-    "title": "smal",
-    "name": "smal",
-    "price": 440,
-    "oldPrice": 40,
-    "discountPercentage": "40",
-    "category": "Serrure intelligente",
-    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777141590/h8aw0jfswquyycnwhr6a.png",
-    "images": [
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777141590/h8aw0jfswquyycnwhr6a.png",
-        "alt": "barriere-parking-automatique-bg1060-1.png"
-      }
-    ],
-    "publishedAt": "2026-04-25T18:26:34.663Z"
-  },
-  {
     "slug": "barriere-parking-automatique-bg1060",
     "title": "BG1060 Parking Barrier",
     "name": "BG1060 Parking Barrier",
