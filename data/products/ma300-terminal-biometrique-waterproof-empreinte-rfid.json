@@ -1,0 +1,51 @@
+{
+  "title": "MA300 Waterproof Fingerprint and RFID Cards Terminal",
+  "price": 1390,
+  "oldPrice": 1990,
+  "discountPercentage": "30%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    MA300 — Terminal Biométrique Waterproof Empreinte & RFID\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le MA300 est un terminal de contrôle d'accès biométrique conçu pour les environnements professionnels exigeant fiabilité, robustesse et polyvalence d'installation. Son boîtier en alliage de zinc certifié IP65 offre une protection totale contre l'eau, la poussière et le vandalisme, aussi bien en intérieur qu'en façade extérieure. Grâce à l'algorithme d'empreintes digitales ZK et sa compatibilité native avec ZKBio CVAccess, il s'intègre sans friction dans toute infrastructure de sécurité moderne au Maroc.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Double authentification empreinte digitale + carte RFID — algorithme ZK avancé pour une reconnaissance fiable et instantanée</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Certification IP65 — boîtier en alliage de zinc étanche, résistant à la poussière et au vandalisme en toutes conditions</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Triple connectivité TCP/IP, RS485 et Wiegand — intégration universelle avec tout contrôleur d'accès ou système tiers</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Compatible ZKBio CVAccess — gestion centralisée des accès, des utilisateurs et des événements en temps réel</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Usage intérieur et extérieur — polyvalence d'installation maximale sur tout type de site professionnel ou industriel</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Boîtier compact en métal premium — design discret et robuste, adapté à tout environnement architectural</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Référence certifiée ZKTeco au Maroc — conseil personnalisé pour choisir le terminal adapté à votre infrastructure et votre secteur</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Installation professionnelle et paramétrage ZKBio CVAccess assurés par nos techniciens — opérationnel dès le premier jour</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Garantie officielle constructeur et support après-vente dédié — continuité de votre sécurité assurée sur la durée</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &nbsp;•&nbsp; 💳 Paiement à la livraison &nbsp;•&nbsp; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "MA300 terminal biométrique waterproof à 1 390 MAD — Empreinte digitale, RFID, IP65, TCP/IP au Maroc. Livraison gratuite. BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Contrôle d'accès",
+  "slug": "ma300-terminal-biometrique-waterproof-empreinte-rfid",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145508/jqnree1qpiblgt0urmnc.png",
+      "alt": "Terminal biométrique IP65 empreinte + RFID, boîtier zinc anti-vandalisme. TCP/IP, RS485, Wiegand — contrôle d'accès intérieur/extérieur sans compromis."
+    }
+  ],
+  "name": "MA300 Waterproof Fingerprint and RFID Cards Terminal",
+  "publishedAt": "2026-04-25T19:31:50.691Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "MA300 Waterproof Fingerprint and RFID Cards Terminal",
+    "description": "MA300 terminal biométrique waterproof à 1 390 MAD — Empreinte digitale, RFID, IP65, TCP/IP au Maroc. Livraison gratuite. BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145508/jqnree1qpiblgt0urmnc.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 1390,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/ma300-terminal-biometrique-waterproof-empreinte-rfid"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
