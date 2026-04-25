@@ -1,5 +1,22 @@
 [
   {
+    "slug": "mr1010-mr1020-lecteurs-rfid-haute-securite-ik10-ip66",
+    "title": "MR1010 - MR1020",
+    "name": "MR1010 - MR1020",
+    "price": 550,
+    "oldPrice": 650,
+    "discountPercentage": "18%",
+    "category": "Contrôle d'accès",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145930/zvilhxskwmkonzlczqwg.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145930/zvilhxskwmkonzlczqwg.png",
+        "alt": "Lecteurs RFID haute sécurité IK10/IP66, boîtier métal, -40°C à +60°C. 125 kHz ou 13,56 MHz, Wiegand 26/34 bits. Robustesse extrême pour l'extérieur."
+      }
+    ],
+    "publishedAt": "2026-04-25T19:38:52.661Z"
+  },
+  {
     "slug": "qr600-lecteur-qr-code-dynamique-rfid-waterproof-ip65",
     "title": "QR600 Series Waterproof QR Code & RFID Reader",
     "name": "QR600 Series Waterproof QR Code & RFID Reader",
