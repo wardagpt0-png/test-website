@@ -1,0 +1,51 @@
+{
+  "title": "IN01",
+  "price": 2290,
+  "oldPrice": 2990,
+  "discountPercentage": "23%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">IN01-A — Lecteur Biométrique d'Empreintes Digitales Haute Performance</h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le ZKTeco IN01-A est un terminal biométrique de nouvelle génération alliant la précision du capteur optique d'empreintes digitales le plus performant du marché à une connectivité sans faille via TCP/IP, Wi-Fi et GPRS. Doté d'une batterie de secours intégrée de 2 000 mAh, il garantit une continuité de service totale même en cas de coupure de courant — une exigence non négociable pour les environnements professionnels critiques. Son écran TFT 3 pouces haute définition offre un retour visuel immédiat sur la qualité de reconnaissance, pour une expérience utilisateur aussi intuitive qu'élégante.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">CARACTÉRISTIQUES TECHNIQUES</h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Capteur optique d'empreintes ZKTeco haute qualité d'image — algorithme de correspondance le plus rapide du secteur</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Batterie de secours intégrée 2 000 mAh — continuité de service assurée en cas de coupure électrique</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Connectivité multi-protocoles : TCP/IP standard, Wi-Fi et GPRS — transmission des données en quelques secondes</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Écran TFT couleur 3 pouces — affichage vivid de la qualité d'empreinte et des résultats de vérification en temps réel</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Application double : gestion des temps & présences et contrôle d'accès — solution tout-en-un polyvalente</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Communication TCP/IP rapide pour synchronisation instantanée entre le terminal et le PC de gestion</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">POURQUOI CHOISIR BALENCIA ?</h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Déploiement clé en main au Maroc — nos techniciens certifiés assurent l'installation, la configuration réseau et la formation</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Garantie constructeur & support après-vente réactif — un seul interlocuteur pour toute la durée de vie de votre équipement</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ BALENCIA, partenaire de confiance des entreprises marocaines — produits ZKTeco 100% authentiques, sélectionnés pour leur fiabilité</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">🚚 Livraison gratuite partout au Maroc • 💳 Paiement à la livraison • 🔄 Retour gratuit sous 14 jours</p>\n  </div>\n\n</div>",
+  "metaDescription": "IN01-A ZKTeco – Pointeuse empreintes digitales à 2 290 MAD. Livraison gratuite au Maroc. Batterie secours, Wi-Fi & TCP/IP — BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Pointeuse biométrique",
+  "slug": "pointeuse-biometrique-empreintes-in01-a-zkteco",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777139601/isrs6myxmpav70icxqou.png",
+      "alt": "Pointeuse biométrique ZKTeco IN01-A : capteur optique haute performance, batterie 2000 mAh et Wi-Fi intégré. Fiabilité absolue pour la gestion des temps au Maroc."
+    }
+  ],
+  "name": "IN01",
+  "publishedAt": "2026-04-25T17:53:25.124Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "IN01",
+    "description": "IN01-A ZKTeco – Pointeuse empreintes digitales à 2 290 MAD. Livraison gratuite au Maroc. Batterie secours, Wi-Fi & TCP/IP — BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777139601/isrs6myxmpav70icxqou.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 2290,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/pointeuse-biometrique-empreintes-in01-a-zkteco"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
