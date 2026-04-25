@@ -1,0 +1,51 @@
+{
+  "title": "MB360 ZKTeco",
+  "price": 2200,
+  "oldPrice": 2700,
+  "discountPercentage": "18%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">MB360 ZKTeco — Pointeuse Biométrique Intelligente</h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le MB360 de ZKTeco redéfinit les standards du contrôle d'accès professionnel avec une vérification biométrique en moins d'une seconde, alliant reconnaissance faciale et empreintes digitales dans un design épuré et élégant. Conçu pour s'intégrer harmonieusement dans tout environnement — bureau, industrie ou établissement premium —, il offre une sécurité sans compromis à la hauteur des exigences des entreprises modernes au Maroc. Sa plateforme firmware professionnelle garantit flexibilité, évolutivité et une expérience utilisateur intuitive.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">CARACTÉRISTIQUES TECHNIQUES</h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Reconnaissance faciale (1 200 visages) & empreintes digitales (1 500) avec vérification en &lt; 1 seconde</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Multi-méthodes de vérification : visage, empreinte, carte (optionnel), mot de passe et combinaisons</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Capacité : 100 000 enregistrements et 2 000 cartes — idéal pour les grandes structures</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Connectivité TCP/IP, hôte USB et Wi-Fi (option) — compatible PC via transfert direct ou réseau</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Interface multilingue avec firmware professionnel ZKTeco pour une gestion flexible et évolutive</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Design minimaliste premium, adapté aux environnements professionnels et institutionnels</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">POURQUOI CHOISIR BALENCIA ?</h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Installation & configuration professionnelle assurée par nos techniciens certifiés partout au Maroc</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ SAV réactif & garantie constructeur — votre sécurité est notre priorité, bien après l'achat</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Produits authentiques ZKTeco sélectionnés par BALENCIA, leader marocain de la sécurité intelligente</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">🚚 Livraison gratuite partout au Maroc • 💳 Paiement à la livraison • 🔄 Retour gratuit sous 14 jours</p>\n  </div>\n\n</div>",
+  "metaDescription": "MB360 ZKTeco – Pointeuse biométrique faciale & empreintes à 2 200 MAD. Livraison gratuite au Maroc. Sécurité intelligente signée BALENCIA.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Pointeuse biométrique",
+  "slug": "pointeuse-biometrique-mb360-zkteco",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777138666/md9aqqd990jgwdmsh71g.png",
+      "alt": "Pointeuse biométrique ZKTeco MB360 : reconnaissance faciale & empreintes en moins d'une seconde. Capacité 1 200 visages. Design premium, fiabilité absolue."
+    }
+  ],
+  "name": "MB360 ZKTeco",
+  "publishedAt": "2026-04-25T17:38:28.697Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "MB360 ZKTeco",
+    "description": "MB360 ZKTeco – Pointeuse biométrique faciale & empreintes à 2 200 MAD. Livraison gratuite au Maroc. Sécurité intelligente signée BALENCIA.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777138666/md9aqqd990jgwdmsh71g.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 2200,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/pointeuse-biometrique-mb360-zkteco"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
