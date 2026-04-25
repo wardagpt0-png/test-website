@@ -1,0 +1,51 @@
+{
+  "title": "SERRURE DIGITALE MINI M1 PRO",
+  "price": 1990,
+  "oldPrice": 3900,
+  "discountPercentage": "48%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    Serrure Digitale Mini M1 Pro\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    La Serrure Digitale Mini M1 Pro prouve qu'une conception compacte n'implique aucun compromis sur la sécurité ou la technologie. Avec sa caméra HD intégrée, ses quatre modes d'accès distincts et son format minimaliste, elle s'impose comme la solution idéale pour les espaces modernes, les appartements et les portes à gabarit réduit au Maroc. Robuste, intuitive et dotée d'un double système de secours, la Mini M1 Pro offre une protection complète dans un écrin d'élégance discret.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Caméra HD intégrée — capture automatique d'images nettes en cas de tentative d'effraction ou d'accès non autorisé</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Reconnaissance biométrique par empreinte digitale — accès instantané, sécurisé et sans clé physique pour chaque utilisateur enregistré</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Code PIN personnalisé — mot de passe configurable pour un accès partagé ponctuel en toute sécurité</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Compatibilité carte IC — accès sans contact avec écran d'affichage intégré pour une utilisation fluide et intuitive</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Alimentation d'urgence USB — rechargement externe instantané en cas de batterie déchargée, zéro risque de blocage</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Cylindre mécanique de secours — ouverture garantie par clé physique en cas de panne électronique ou de défaillance système</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Format ultra-compact & design minimaliste — encombrement réduit, intégration discrète et élégante sur tous types de portes modernes</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ La seule serrure compacte de la gamme BALENCIA équipée d'une caméra HD — une combinaison rare sur le marché marocain à ce niveau de prix</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Idéale pour appartements, studios et portes à faible encombrement — une technologie complète adaptée aux contraintes architecturales modernes</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Marque marocaine de proximité — livraison rapide partout au Maroc, installation professionnelle disponible et SAV réactif garanti</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &bull; 💳 Paiement à la livraison &bull; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "Serrure Digitale Mini M1 Pro à 1990 MAD au Maroc. Caméra HD, biométrie, carte IC, secours USB et mécanique. Livraison gratuite. BALENCIA Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Serrure intelligente",
+  "slug": "serrure-digitale-mini-m1-pro",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777133857/dio0sh9yxs02scvlkeox.png",
+      "alt": "Serrure compacte Mini M1 Pro avec caméra HD, empreinte digitale, carte IC et secours USB. Grande sécurité dans un format minimaliste et élégant."
+    }
+  ],
+  "name": "SERRURE DIGITALE MINI M1 PRO",
+  "publishedAt": "2026-04-25T16:17:39.680Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SERRURE DIGITALE MINI M1 PRO",
+    "description": "Serrure Digitale Mini M1 Pro à 1990 MAD au Maroc. Caméra HD, biométrie, carte IC, secours USB et mécanique. Livraison gratuite. BALENCIA Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777133857/dio0sh9yxs02scvlkeox.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 1990,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/serrure-digitale-mini-m1-pro"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
