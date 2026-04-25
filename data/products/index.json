@@ -1,5 +1,22 @@
 [
   {
+    "slug": "imprimante-thermique-zkp8013",
+    "title": "ZKP8013 Imprimante Thermique",
+    "name": "ZKP8013 Imprimante Thermique",
+    "price": 1375,
+    "oldPrice": 1600,
+    "discountPercentage": "14%",
+    "category": "Imprimante Thermique",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777149605/v43tnwopvb9aiomn7dk4.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777149605/v43tnwopvb9aiomn7dk4.png",
+        "alt": "Imprimante thermique 4\" ZKP8013 : 152 mm/s, largeurs 20-116 mm, 8 Mo Flash, régulation thermique intelligente. Étiquetage industriel haute performance."
+      }
+    ],
+    "publishedAt": "2026-04-25T20:40:07.607Z"
+  },
+  {
     "slug": "zkp8005-imprimante-thermique",
     "title": "ZKP8005 Imprimante Thermique",
     "name": "ZKP8005 Imprimante Thermique",
