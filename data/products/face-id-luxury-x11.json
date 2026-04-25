@@ -1,0 +1,51 @@
+{
+  "title": "Face id luxury X11",
+  "price": 3790,
+  "oldPrice": 5800,
+  "discountPercentage": "34%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    Face ID Luxury X11\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    La Face ID Luxury X11 occupe une place d'exception dans la hiérarchie BALENCIA — juste en dessous du flagship X12, elle en partage l'ADN technologique tout en affirmant sa propre identité premium à 3790 MAD. Surveillance caméra en continu, reconnaissance faciale de pointe, alarme anti-intrusion automatique et interphone visuel bidirectionnel : chaque fonctionnalité est pensée pour offrir une protection totale, active et réactive, digne des résidences et espaces professionnels les plus exigeants du Maroc. Avec la X11, vous ne sécurisez pas simplement une porte — vous maîtrisez intégralement votre environnement.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Caméra de surveillance HD intégrée — monitoring en temps réel avec accès direct depuis l'application smartphone, 24h/24 et 7j/7</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Reconnaissance faciale haute précision — identification instantanée et déverrouillage automatique sans contact pour les utilisateurs autorisés</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Capteur biométrique empreinte digitale — accès personnel sécurisé, immédiat et infalsifiable pour chaque utilisateur enregistré</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Alarme anti-intrusion puissante — déclenchement automatique et alerte push instantanée sur smartphone dès toute activité suspecte détectée</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Interphone visuel bidirectionnel premium — écran intérieur activé automatiquement à chaque sonnette pour voir et dialoguer sans ouvrir</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Contrôle à distance via smartphone — gestion complète des accès, surveillance en direct et paramétrage en temps réel depuis partout dans le monde</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Accès multimode sans clé — reconnaissance faciale, empreinte digitale, code PIN ou application mobile pour une flexibilité maximale</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Finition Luxury X — design premium raffiné, pensé pour s'intégrer avec distinction sur les portes de prestige et les entrées haut de gamme</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Positionnement ultra-premium juste sous le flagship — la X11 offre l'intégralité des protections actives de la gamme Luxury X dans un rapport technologie-investissement optimal à 3790 MAD</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Sécurité à quatre niveaux simultanés — caméra HD, alarme automatique, interphone visuel et reconnaissance faciale forment un bouclier complet, sans angle mort</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Service BALENCIA haut de gamme inclus — installation par des techniciens certifiés, formation à l'utilisation et support après-vente dédié disponibles dans tout le Maroc</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &bull; 💳 Paiement à la livraison &bull; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "Face ID Luxury X11 à 3790 MAD au Maroc. Caméra HD, Face ID, alarme, interphone visuel haut de gamme. Livraison gratuite. BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Serrure intelligente",
+  "slug": "face-id-luxury-x11",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777134836/cdu4higbeacbcs4fzt7d.png",
+      "alt": "Serrure Face ID Luxury X11 : caméra HD, reconnaissance faciale, alarme anti-intrusion et interphone visuel premium. L'avant-dernière frontière de la sécurité connectée."
+    }
+  ],
+  "name": "Face id luxury X11",
+  "publishedAt": "2026-04-25T16:33:58.527Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Face id luxury X11",
+    "description": "Face ID Luxury X11 à 3790 MAD au Maroc. Caméra HD, Face ID, alarme, interphone visuel haut de gamme. Livraison gratuite. BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777134836/cdu4higbeacbcs4fzt7d.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 3790,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/face-id-luxury-x11"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
