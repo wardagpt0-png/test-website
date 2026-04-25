@@ -1,5 +1,22 @@
 [
   {
+    "slug": "zkbio510-terminal-caisse-biometrique-facial-empreinte",
+    "title": "ZKBIO510 Terminal caisse",
+    "name": "ZKBIO510 Terminal caisse",
+    "price": 6195,
+    "oldPrice": 7295,
+    "discountPercentage": "15%",
+    "category": "Caisse automatique",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777146343/urf4rp6puspih5a8gwq7.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777146343/urf4rp6puspih5a8gwq7.png",
+        "alt": "Terminal POS biométrique facial + empreinte, écran tactile haute résolution, Wi-Fi/Ethernet/Bluetooth. Sécurité maximale et gestion de caisse intelligente."
+      }
+    ],
+    "publishedAt": "2026-04-25T19:45:45.929Z"
+  },
+  {
     "slug": "zk1530-terminal-caisse-biometrique-pos-15-pouces",
     "title": "ZK1530 Terminal caisse",
     "name": "ZK1530 Terminal caisse",
