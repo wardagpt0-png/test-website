@@ -1,5 +1,26 @@
 [
   {
+    "slug": "face-id-luxury-x10",
+    "title": "Face id luxury X10",
+    "name": "Face id luxury X10",
+    "price": 3490,
+    "oldPrice": 5800,
+    "discountPercentage": "Économisez 39%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777130886/vc7ogazz1bzb08w9uznw.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777130886/vc7ogazz1bzb08w9uznw.png",
+        "alt": "Serrure premium X10 avec reconnaissance faciale, caméra intégrée, alarme anti-intrusion et interphone visuel. Le summum de la sécurité connectée."
+      },
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777130900/pbjenlvjbip1lzivnwvs.png",
+        "alt": "Face ID Luxury X10 à 3490 MAD au Maroc. Reconnaissance faciale, caméra, alarme, interphone visuel. Livraison gratuite. BALENCIA Smart Security."
+      }
+    ],
+    "publishedAt": "2026-04-25T15:28:22.712Z"
+  },
+  {
     "slug": "serrure-digital-em-21",
     "title": "serrure digital EM 21",
     "name": "serrure digital EM 21",
