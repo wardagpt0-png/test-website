@@ -1,5 +1,22 @@
 [
   {
+    "slug": "poignee-digital-x13-ai",
+    "title": "Poignée Digital X13 Ai",
+    "name": "Poignée Digital X13 Ai",
+    "price": 4490,
+    "oldPrice": 8530,
+    "discountPercentage": "48%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777134998/x4jjionvexqjxzoziwq9.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777134998/x4jjionvexqjxzoziwq9.png",
+        "alt": "Poignée X13 AI : intelligence artificielle, 7 modes d'accès dont Palm ID, écran tactile HD et corps aluminium. Le summum de la sécurité connectée au Maroc."
+      }
+    ],
+    "publishedAt": "2026-04-25T16:36:40.039Z"
+  },
+  {
     "slug": "face-id-luxury-x11",
     "title": "Face id luxury X11",
     "name": "Face id luxury X11",
