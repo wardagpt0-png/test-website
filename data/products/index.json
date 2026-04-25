@@ -1,22 +1,5 @@
 [
   {
-    "slug": "dfgdfgd",
-    "title": "cvsdfg",
-    "name": "cvsdfg",
-    "price": 4545,
-    "oldPrice": 454,
-    "discountPercentage": "45",
-    "category": "Serrure intelligente",
-    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777156627/pzoeavlblpcmnwzp4txy.png",
-    "images": [
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777156627/pzoeavlblpcmnwzp4txy.png",
-        "alt": "imprimante-thermique-zkp580.png"
-      }
-    ],
-    "publishedAt": "2026-04-25T22:37:09.715Z"
-  },
-  {
     "slug": "imprimante-thermique-zkp8013",
     "title": "ZKP8013 Imprimante Thermique",
     "name": "ZKP8013 Imprimante Thermique",
