@@ -1,5 +1,22 @@
 [
   {
+    "slug": "pointeuse-biometrique-mb160-zkteco",
+    "title": "MB160 ZKTeco",
+    "name": "MB160 ZKTeco",
+    "price": 4190,
+    "oldPrice": 5200,
+    "discountPercentage": "19%",
+    "category": "Pointeuse biométrique",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777137588/exuviiq6wisgxgz7lvuh.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777137588/exuviiq6wisgxgz7lvuh.png",
+        "alt": "Pointeuse biométrique ZKTeco MB160 : reconnaissance faciale, empreinte, RFID, Wi-Fi et rapports automatisés. Installation complète incluse au Maroc."
+      }
+    ],
+    "publishedAt": "2026-04-25T17:19:50.616Z"
+  },
+  {
     "slug": "coffre-fort-ignifuge-ff45",
     "title": "Coffre-Fort Ignifuge FF-45",
     "name": "Coffre-Fort Ignifuge FF-45",
