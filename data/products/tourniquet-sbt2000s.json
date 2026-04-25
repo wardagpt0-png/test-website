@@ -1,0 +1,51 @@
+{
+  "title": "Sélection coup de cœur — stocks limités  Tourniquet SBT2000S",
+  "price": 15250,
+  "oldPrice": 16550,
+  "discountPercentage": "7%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    Tourniquet SBT2000S\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le SBT2000S est une barrière pivotante à passage large, pensée pour les environnements inclusifs et les flux à fort volume : livraison de colis, mobilité réduite, accès VIP. Son design épuré et son mécanisme ultra-silencieux en font une solution de contrôle d'accès haut de gamme, alliant sécurité passive et esthétique architecturale. Une référence de choix pour les entreprises marocaines exigeantes.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Largeur de voie 800 mm — accès PMR, fauteuils roulants et livraisons de gros colis facilité</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Ouverture/fermeture en 3 secondes — fluidité optimale des flux entrants et sortants</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Capteur infrarouge basse partie — prévention active des blessures par détection de présence</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Mode de secours en cas de coupure d'alimentation — ouverture manuelle par simple poussée</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Fonctionnement silencieux à très faible consommation énergétique — économique sur la durée</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Design élégant et compact — intégration harmonieuse dans tout environnement professionnel ou institutionnel</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Sélection coup de cœur BALENCIA — produit en stock limité, choisi pour son excellence et son rapport valeur-usage</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Installation clé en main par nos équipes certifiées, avec mise en service et formation incluses</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Service après-vente dédié et garantie officielle — votre investissement sécurité protégé sur le long terme</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &nbsp;•&nbsp; 💳 Paiement à la livraison &nbsp;•&nbsp; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "Tourniquet SBT2000S à 15 250 MAD — Barrière pivotante large voie, passage PMR, sécurité infrarouge au Maroc. Livraison gratuite. BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Tourniquet tripode",
+  "slug": "tourniquet-sbt2000s",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777143190/lvbinbocx7gvuxngjeiw.png",
+      "alt": "tourniquet-sbt2000s.png"
+    }
+  ],
+  "name": "Sélection coup de cœur — stocks limités  Tourniquet SBT2000S",
+  "publishedAt": "2026-04-25T18:53:14.169Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Sélection coup de cœur — stocks limités  Tourniquet SBT2000S",
+    "description": "Tourniquet SBT2000S à 15 250 MAD — Barrière pivotante large voie, passage PMR, sécurité infrarouge au Maroc. Livraison gratuite. BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777143190/lvbinbocx7gvuxngjeiw.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 15250,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/tourniquet-sbt2000s"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
