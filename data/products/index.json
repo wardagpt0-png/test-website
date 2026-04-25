@@ -1,5 +1,22 @@
 [
   {
+    "slug": "terminal-caisse-zkbio610-zkteco",
+    "title": "ZKBIO610 Terminal caisse",
+    "name": "ZKBIO610 Terminal caisse",
+    "price": 7695,
+    "oldPrice": 8195,
+    "discountPercentage": "6%",
+    "category": "Caisse automatique",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777148603/l77xfkwvrky2mvygbq1d.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777148603/l77xfkwvrky2mvygbq1d.png",
+        "alt": "Terminal caisse ZKBio610 : écran tactile 15\", processeur quadricœur Intel, lecteur d'empreintes, double affichage et 6 ports USB. Solution POS professionnelle complète."
+      }
+    ],
+    "publishedAt": "2026-04-25T20:23:25.019Z"
+  },
+  {
     "slug": "zkbio510-terminal-caisse-biometrique-facial-empreinte",
     "title": "ZKBIO510 Terminal caisse",
     "name": "ZKBIO510 Terminal caisse",
