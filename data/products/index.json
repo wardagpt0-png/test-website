@@ -1,5 +1,22 @@
 [
   {
+    "slug": "face-id-luxury-ef26",
+    "title": "Face id luxury EF26",
+    "name": "Face id luxury EF26",
+    "price": 3190,
+    "oldPrice": 5800,
+    "discountPercentage": "45%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777134679/pajna8n6vttsgdbjc40j.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777134679/pajna8n6vttsgdbjc40j.png",
+        "alt": "Serrure Face ID Luxury EF26 : caméra HD, reconnaissance faciale, alarme anti-intrusion et interphone visuel. Sécurité intelligente, design d'exception."
+      }
+    ],
+    "publishedAt": "2026-04-25T16:31:21.248Z"
+  },
+  {
     "slug": "face-id-luxury-em23",
     "title": "Face id luxury EM23",
     "name": "Face id luxury EM23",
