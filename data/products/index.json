@@ -1,5 +1,22 @@
 [
   {
+    "slug": "face-id-luxury-x11",
+    "title": "Face id luxury X11",
+    "name": "Face id luxury X11",
+    "price": 3790,
+    "oldPrice": 5800,
+    "discountPercentage": "34%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777134836/cdu4higbeacbcs4fzt7d.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777134836/cdu4higbeacbcs4fzt7d.png",
+        "alt": "Serrure Face ID Luxury X11 : caméra HD, reconnaissance faciale, alarme anti-intrusion et interphone visuel premium. L'avant-dernière frontière de la sécurité connectée."
+      }
+    ],
+    "publishedAt": "2026-04-25T16:33:58.527Z"
+  },
+  {
     "slug": "face-id-luxury-ef26",
     "title": "Face id luxury EF26",
     "name": "Face id luxury EF26",
