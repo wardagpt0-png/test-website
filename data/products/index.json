@@ -1,22 +1,5 @@
 [
   {
-    "slug": "vbn",
-    "title": "nfgnhfg",
-    "name": "nfgnhfg",
-    "price": 578,
-    "oldPrice": 545,
-    "discountPercentage": "45",
-    "category": "Serrure intelligente",
-    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777156938/bxaqyblkiky56bank2aw.png",
-    "images": [
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777156938/bxaqyblkiky56bank2aw.png",
-        "alt": "imprimante-thermique-zkp8013.png"
-      }
-    ],
-    "publishedAt": "2026-04-25T22:42:21.208Z"
-  },
-  {
     "slug": "imprimante-thermique-zkp8013",
     "title": "ZKP8013 Imprimante Thermique",
     "name": "ZKP8013 Imprimante Thermique",
