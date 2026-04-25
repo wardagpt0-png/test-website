@@ -1,5 +1,22 @@
 [
   {
+    "slug": "serrure-digitale-a6",
+    "title": "SERRURE DIGITALE A6",
+    "name": "SERRURE DIGITALE A6",
+    "price": 1700,
+    "oldPrice": 1990,
+    "discountPercentage": "11%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777131904/gzjukql5uudxnnxhlp1e.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777131904/gzjukql5uudxnnxhlp1e.png",
+        "alt": "Serrure digitale A6 multimode : empreinte digitale, code PIN, carte IC et double secours mécanique & USB. Sécurité premium, fiabilité garantie."
+      }
+    ],
+    "publishedAt": "2026-04-25T15:45:06.406Z"
+  },
+  {
     "slug": "serrure-digitale-x2",
     "title": "SERRURE DIGITALE X2",
     "name": "SERRURE DIGITALE X2",
