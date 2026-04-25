@@ -1,5 +1,22 @@
 [
   {
+    "slug": "tourniquet-sbt2000s",
+    "title": "Sélection coup de cœur — stocks limités  Tourniquet SBT2000S",
+    "name": "Sélection coup de cœur — stocks limités  Tourniquet SBT2000S",
+    "price": 15250,
+    "oldPrice": 16550,
+    "discountPercentage": "7%",
+    "category": "Tourniquet tripode",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777143190/lvbinbocx7gvuxngjeiw.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777143190/lvbinbocx7gvuxngjeiw.png",
+        "alt": "tourniquet-sbt2000s.png"
+      }
+    ],
+    "publishedAt": "2026-04-25T18:53:14.169Z"
+  },
+  {
     "slug": "tourniquet-mts1000-series",
     "title": "Tourniquet MTS1000 Series",
     "name": "Tourniquet MTS1000 Series",
