@@ -1,0 +1,51 @@
+{
+  "title": "Tourniquet MTS1000 Series",
+  "price": 7735,
+  "oldPrice": 7935,
+  "discountPercentage": "2%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    Tourniquet MTS1000 Series\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le MTS1000 Series incarne l'équilibre parfait entre robustesse industrielle et accessibilité tarifaire pour le marché marocain. Conçu pour les entreprises, administrations et espaces à fort trafic, ce tourniquet tripode bidirectionnel offre une gestion fluide et sécurisée des flux de personnes. Sa construction en acier inoxydable SUS304 garantit une durabilité exceptionnelle dans tout environnement professionnel.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Boîtier en acier inoxydable SUS304 — résistance mécanique et finition premium durable</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Fonctionnement bidirectionnel avec mécanisme de chute de bras automatique — sécurité en cas d'urgence</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Pictogrammes LED intuitifs — guidage visuel clair pour un débit élevé dans les deux sens</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Faible consommation énergétique — exploitation économique sur le long terme</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Large gamme d'accessoires compatibles — personnalisation selon vos besoins d'accès</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Installation rapide et simplifiée — mise en service immédiate sans expertise technique avancée</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Référence de confiance au Maroc pour les solutions de contrôle d'accès professionnel et sécurisé</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Accompagnement complet : conseil, installation par techniciens certifiés et support après-vente réactif</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Produits garantis authentiques avec rapport qualité-prix optimisé pour les entreprises marocaines</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &nbsp;•&nbsp; 💳 Paiement à la livraison &nbsp;•&nbsp; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "Tourniquet MTS1000 Series à 7 735 MAD — Tripode bidirectionnel LED, acier SUS304, installation facile au Maroc. Livraison gratuite. BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Tourniquet tripode",
+  "slug": "tourniquet-mts1000-series",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777142826/wdadyomqxepbbwysm8mh.png",
+      "alt": "Tourniquet tripode bidirectionnel en acier inoxydable SUS304, avec pictogrammes LED intuitifs et chute de bras automatique. Fiabilité professionnelle, consommation maîtrisée."
+    }
+  ],
+  "name": "Tourniquet MTS1000 Series",
+  "publishedAt": "2026-04-25T18:47:11.242Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Tourniquet MTS1000 Series",
+    "description": "Tourniquet MTS1000 Series à 7 735 MAD — Tripode bidirectionnel LED, acier SUS304, installation facile au Maroc. Livraison gratuite. BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777142826/wdadyomqxepbbwysm8mh.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 7735,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/tourniquet-mts1000-series"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
