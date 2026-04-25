@@ -1,5 +1,22 @@
 [
   {
+    "slug": "face-id-luxury-em23",
+    "title": "Face id luxury EM23",
+    "name": "Face id luxury EM23",
+    "price": 3290,
+    "oldPrice": 5800,
+    "discountPercentage": "50%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777134512/ekvim6zr3ufgow6ptb5m.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777134512/ekvim6zr3ufgow6ptb5m.png",
+        "alt": "Serrure Face ID Luxury EM23 : caméra intégrée, reconnaissance faciale, alarme anti-intrusion et interphone visuel. Surveillance totale, élégance absolue."
+      }
+    ],
+    "publishedAt": "2026-04-25T16:28:34.117Z"
+  },
+  {
     "slug": "serrure-digitale-mini-m1-pro",
     "title": "SERRURE DIGITALE MINI M1 PRO",
     "name": "SERRURE DIGITALE MINI M1 PRO",
