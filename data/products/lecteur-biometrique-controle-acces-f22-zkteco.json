@@ -1,0 +1,51 @@
+{
+  "title": "F22",
+  "price": 1690,
+  "oldPrice": 2990,
+  "discountPercentage": "43%)",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">F22 — Lecteur Biométrique Tactile pour Contrôle d'Accès Porte</h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le ZKTeco F22 redéfinit le standard du contrôle d'accès biométrique avec une interface tactile TFT LCD couleur 2,4 pouces et une compatibilité universelle avec tout panneau de contrôle tiers supportant le signal Wiegand standard. Doté de l'algorithme ZKFinger VX10.0 — l'un des plus performants de l'industrie —, il offre une reconnaissance d'empreintes d'une précision et d'une rapidité remarquables, que ce soit en mode autonome ou intégré à un réseau existant. Sa polyvalence de connectivité TCP/IP, RS485 et Wi-Fi en fait la solution de référence pour sécuriser tout accès professionnel au Maroc.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">CARACTÉRISTIQUES TECHNIQUES</h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Capacité : 3 000 empreintes / 5 000 cartes ID ou Mifare / 30 000 transactions — adapté aux grandes structures</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Algorithme ZKFinger VX10.0 avec capteur BioID ou SilkID (option) — précision et rapidité de reconnaissance optimales</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Connectivité complète : TCP/IP, RS232/485, USB hôte & Wi-Fi — intégration sur tout type de réseau professionnel</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Signal Wiegand entrée/sortie — compatibilité universelle avec tous les panneaux de contrôle d'accès tiers</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Interface de contrôle d'accès complète : verrou électrique, capteur de porte, bouton de sortie et sortie alarme</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Fonctions avancées : anti-retour, sonnerie programmée, heure d'été, ID utilisateur 14 chiffres, ADMS (option)</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Écran TFT LCD couleur 2,4 pouces — dimensions compactes 158,5 × 78,0 × 19,4 mm, design mural élégant</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Compatible SDK autonome & logiciel ZKAccess3.5 — gestion centralisée simple et évolutive</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">POURQUOI CHOISIR BALENCIA ?</h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Intégration experte dans vos systèmes existants — nos techniciens certifiés configurent le F22 en parfaite synergie avec votre infrastructure réseau et vos contrôleurs actuels</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ SAV premium & garantie constructeur — accompagnement post-installation réactif pour une sécurité sans interruption au Maroc</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ BALENCIA, leader marocain de la sécurité intelligente — produits ZKTeco 100% authentiques, livrés, installés et garantis clé en main</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">🚚 Livraison gratuite partout au Maroc • 💳 Paiement à la livraison • 🔄 Retour gratuit sous 14 jours</p>\n  </div>\n\n</div>",
+  "metaDescription": "F22 ZKTeco – Lecteur biométrique contrôle d'accès à 1 690 MAD. Livraison gratuite au Maroc. Wi-Fi, Wiegand & TCP/IP — BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Contrôle d'accès porte",
+  "slug": "lecteur-biometrique-controle-acces-f22-zkteco",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777140224/wga56il1kwaolzhegvru.png",
+      "alt": "Lecteur biométrique ZKTeco F22 : 3 000 empreintes, Wi-Fi & TCP/IP, compatible tout panneau Wiegand. Contrôle d'accès porte premium pour entreprises au Maroc."
+    }
+  ],
+  "name": "F22",
+  "publishedAt": "2026-04-25T18:03:47.227Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "F22",
+    "description": "F22 ZKTeco – Lecteur biométrique contrôle d'accès à 1 690 MAD. Livraison gratuite au Maroc. Wi-Fi, Wiegand & TCP/IP — BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777140224/wga56il1kwaolzhegvru.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 1690,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/lecteur-biometrique-controle-acces-f22-zkteco"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
