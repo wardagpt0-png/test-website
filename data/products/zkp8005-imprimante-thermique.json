@@ -1,0 +1,51 @@
+{
+  "title": "ZKP8005 Imprimante Thermique",
+  "price": 990,
+  "oldPrice": 1200,
+  "discountPercentage": " 17%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    ZKP5803 — Imprimante Thermique Professionnelle\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    L'imprimante thermique ZKP5803 de ZKTeco est la solution d'impression compacte et polyvalente conçue pour les environnements commerciaux et professionnels qui exigent rapidité, précision et personnalisation au quotidien. Compatible avec 21 langues dont l'arabe, le français et le chinois, elle s'adapte à toute configuration internationale et répond aux besoins des commerces, hôtels, restaurants et espaces de vente au Maroc. Grâce à la prise en charge native des codes QR, des codes-barres 1D et des logos personnalisés au format BMP, elle produit des tickets, reçus et étiquettes professionnels en toute autonomie.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Impression codes-barres 1D & QR — génération native de codes linéaires et QR codes pour tickets, étiquettes, reçus et bons de commande</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Support 21 langues multilingues — dont chinois traditionnel et simplifié, arabe, français et autres, pour une utilisation internationale sans restriction</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Logo personnalisable NVLOGO — téléchargement et impression de votre logo au format BMP pour des tickets à l'image professionnelle de votre entreprise</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Densité d'impression réglable — ajustement fin de l'intensité d'impression pour optimiser la qualité selon le type de papier thermique utilisé</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Mise à jour firmware IAP en ligne — maintenance logicielle à distance sans démontage ni intervention technique sur site</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Commandes de personnalisation graphique avancées — paramétrage fin des caractères, polices et éléments graphiques pour chaque format de ticket</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Complément naturel du terminal ZKBio610 — la ZKP5803 s'intègre parfaitement à l'écosystème ZKTeco pour former une solution caisse complète et cohérente, disponible chez BALENCIA</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Personnalisation professionnelle à portée de tous — logo, langues et densité configurables sans compétence technique avancée, pour des tickets à l'image de votre commerce dès le premier jour</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Distributeur ZKTeco certifié au Maroc — garantie produit, assistance technique et disponibilité des consommables (rouleaux thermiques) assurées par l'équipe BALENCIA dans tout le royaume</li>\n      </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &bull; 💳 Paiement à la livraison &bull; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "Imprimante Thermique ZKP5803 à 469 MAD au Maroc. Codes QR & 1D, 21 langues, logo BMP, mise à jour IAP. Livraison gratuite. BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Imprimante Thermique",
+  "slug": "zkp8005-imprimante-thermique",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777149441/fhlrf6lqkthy9d49krmc.png",
+      "alt": "Imprimante thermique ZKP5803 : codes-barres 1D & QR, 21 langues, logo BMP personnalisable et densité réglable. Impression professionnelle, fiable et rapide."
+    }
+  ],
+  "name": "ZKP8005 Imprimante Thermique",
+  "publishedAt": "2026-04-25T20:37:23.461Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "ZKP8005 Imprimante Thermique",
+    "description": "Imprimante Thermique ZKP5803 à 469 MAD au Maroc. Codes QR & 1D, 21 langues, logo BMP, mise à jour IAP. Livraison gratuite. BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777149441/fhlrf6lqkthy9d49krmc.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 990,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/zkp8005-imprimante-thermique"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
