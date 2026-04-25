@@ -1,5 +1,26 @@
 [
   {
+    "slug": "face-id-luxury-x12",
+    "title": "Face id luxury X12",
+    "name": "Face id luxury X12",
+    "price": 3990,
+    "oldPrice": 5800,
+    "discountPercentage": " 31%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777133555/lh50vmulzxdoels7ajnk.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777133555/lh50vmulzxdoels7ajnk.png",
+        "alt": "Serrure ultra-premium X12 : caméra HD, reconnaissance faciale, alarme intégrée, interphone visuel et contrôle smartphone. Le summum du luxe sécuritaire."
+      },
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777133561/ky6fqfem3wqx2bsaoymy.png",
+        "alt": "face-id-luxury-x12-1.png"
+      }
+    ],
+    "publishedAt": "2026-04-25T16:12:43.993Z"
+  },
+  {
     "slug": "poignee-digital-em22",
     "title": "Poignée Digital EM22",
     "name": "Poignée Digital EM22",
