@@ -1,0 +1,51 @@
+{
+  "title": "SERRURE DIGITALE A6",
+  "price": 1700,
+  "oldPrice": 1990,
+  "discountPercentage": "11%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    Serrure Digitale A6\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    La Serrure Digitale A6 incarne l'équilibre parfait entre performance technologique et élégance fonctionnelle dans la gamme intermédiaire de BALENCIA. Conçue pour les foyers et espaces professionnels exigeants, elle propose quatre modes d'accès distincts pour s'adapter à chaque utilisateur et chaque situation. Robuste, autonome et dotée d'un double système de secours, l'A6 est une valeur sûre pour sécuriser votre espace au quotidien — sans jamais vous laisser bloqué.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Reconnaissance biométrique par empreinte digitale — accès rapide, unique et infalsifiable pour chaque utilisateur enregistré</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Code PIN personnalisé — déverrouillage sécurisé par mot de passe configurable, idéal pour les accès partagés ponctuels</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Compatibilité carte IC — accès par badge avec écran d'affichage intégré pour une utilisation simple et intuitive</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Autonomie prolongée — 8 compartiments à piles pour un fonctionnement continu sans remplacement fréquent</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Port USB d'alimentation d'urgence — rechargement externe instantané en cas de batterie déchargée, zéro risque de blocage</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Cylindre mécanique de secours — ouverture garantie par clé physique en cas de panne électronique ou de défaillance système</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Positionnement milieu de gamme premium — une technologie complète et éprouvée à un tarif juste, sans compromis sur la qualité</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Polyvalence maximale — quatre modes d'accès indépendants pour répondre aux besoins de tous les membres du foyer ou de l'équipe</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Marque marocaine de confiance — conseil à l'achat, installation professionnelle et service après-vente disponibles dans tout le Maroc</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &bull; 💳 Paiement à la livraison &bull; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "Serrure Digitale A6 à 1700 MAD au Maroc. Biométrie, code PIN, carte IC, secours USB et mécanique intégrés. Livraison gratuite. BALENCIA Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Serrure intelligente",
+  "slug": "serrure-digitale-a6",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777131904/gzjukql5uudxnnxhlp1e.png",
+      "alt": "Serrure digitale A6 multimode : empreinte digitale, code PIN, carte IC et double secours mécanique & USB. Sécurité premium, fiabilité garantie."
+    }
+  ],
+  "name": "SERRURE DIGITALE A6",
+  "publishedAt": "2026-04-25T15:45:06.406Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SERRURE DIGITALE A6",
+    "description": "Serrure Digitale A6 à 1700 MAD au Maroc. Biométrie, code PIN, carte IC, secours USB et mécanique intégrés. Livraison gratuite. BALENCIA Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777131904/gzjukql5uudxnnxhlp1e.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 1700,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/serrure-digitale-a6"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
