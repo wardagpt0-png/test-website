@@ -1,5 +1,22 @@
 [
   {
+    "slug": "zk1530-terminal-caisse-biometrique-pos-15-pouces",
+    "title": "ZK1530 Terminal caisse",
+    "name": "ZK1530 Terminal caisse",
+    "price": 11130,
+    "oldPrice": 12000,
+    "discountPercentage": "7%",
+    "category": "Caisse automatique",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777146170/c51fibepdiaou3w3tzs4.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777146170/c51fibepdiaou3w3tzs4.png",
+        "alt": "Terminal POS biométrique tout-en-un 15\", Intel Celeron Quad-Core, lecteur d'empreintes intégré. Sécurisez vos transactions et éliminez le vol en caisse."
+      }
+    ],
+    "publishedAt": "2026-04-25T19:42:52.306Z"
+  },
+  {
     "slug": "mr1010-mr1020-lecteurs-rfid-haute-securite-ik10-ip66",
     "title": "MR1010 - MR1020",
     "name": "MR1010 - MR1020",
