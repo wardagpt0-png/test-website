@@ -1,0 +1,51 @@
+{
+  "title": "cvsdfg",
+  "price": 4545,
+  "oldPrice": 454,
+  "discountPercentage": "45",
+  "description": "",
+  "detailedDescription": "jbcvghj",
+  "metaDescription": "kgkjh",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Serrure intelligente",
+  "slug": "dfgdfgd",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777156627/pzoeavlblpcmnwzp4txy.png",
+      "alt": "imprimante-thermique-zkp580.png"
+    }
+  ],
+  "name": "cvsdfg",
+  "publishedAt": "2026-04-25T22:37:09.715Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "cvsdfg",
+    "description": "kgkjh",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777156627/pzoeavlblpcmnwzp4txy.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 4545,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/dfgdfgd"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
