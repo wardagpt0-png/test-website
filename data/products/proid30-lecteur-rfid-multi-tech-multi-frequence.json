@@ -1,0 +1,51 @@
+{
+  "title": "ProID30",
+  "price": 230,
+  "oldPrice": 350,
+  "discountPercentage": "34%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    ProID30 — Lecteur RFID Multi-Tech Multi-Fréquence\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le ProID30 est un lecteur de contrôle d'accès haute performance, conçu pour les installations professionnelles exigeant une compatibilité maximale avec les technologies de badges existantes. Sa prise en charge multi-fréquence 125 kHz et 13,56 MHz lui permet de lire l'ensemble des formats RFID du marché, des cartes ID classiques aux technologies NFC et DESFire EV2 les plus récentes. Certifié IP66, il s'adapte aussi bien aux environnements intérieurs sensibles qu'aux façades extérieures exposées.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Lecture RFID multi-fréquence 125 kHz & 13,56 MHz — compatible ID, IC, NFC, DESFire EV1 & EV2 et tags NFC</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Double sortie Wiegand & RS485 — intégration universelle avec contrôleurs ZKTeco InBioPro et systèmes tiers</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Certification IP66 waterproof — utilisation intérieure et extérieure sans contrainte climatique</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Clavier tactile rétroéclairé + LED lumineuse — retour visuel intuitif pour une utilisation fluide</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Alarme anti-sabotage intégrée — détection immédiate de toute tentative d'effraction ou de démontage</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Haute stabilité et faible consommation énergétique — fiabilité continue 24h/24, 7j/7</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Expert en intégration de systèmes de contrôle d'accès au Maroc — nous sélectionnons uniquement des équipements certifiés et éprouvés</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Compatibilité vérifiée avec votre infrastructure existante — nos techniciens assurent un déploiement sans friction</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Prix accessible, qualité professionnelle — le meilleur rapport performance/coût du marché marocain</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &nbsp;•&nbsp; 💳 Paiement à la livraison &nbsp;•&nbsp; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "ProID30 lecteur RFID multi-tech à 230 MAD — NFC, DESFire, IP66, clavier tactile, Wiegand & RS485 au Maroc. Livraison gratuite. BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Contrôle d'accès",
+  "slug": "proid30-lecteur-rfid-multi-tech-multi-frequence",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777143724/wfwzjeodkh2x3urdvycx.png",
+      "alt": "Lecteur RFID multi-fréquence ProID30 — compatible ID, IC, NFC, DESFire EV1/EV2, clavier tactile, IP66. Intégration universelle Wiegand/RS485."
+    }
+  ],
+  "name": "ProID30",
+  "publishedAt": "2026-04-25T19:02:06.265Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "ProID30",
+    "description": "ProID30 lecteur RFID multi-tech à 230 MAD — NFC, DESFire, IP66, clavier tactile, Wiegand & RS485 au Maroc. Livraison gratuite. BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777143724/wfwzjeodkh2x3urdvycx.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 230,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/proid30-lecteur-rfid-multi-tech-multi-frequence"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
