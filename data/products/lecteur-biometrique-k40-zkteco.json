@@ -1,0 +1,51 @@
+{
+  "title": "K40 Lecteur biométrique",
+  "price": 960,
+  "oldPrice": 1200,
+  "discountPercentage": "20%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    K40 — Lecteur Biométrique ZKTeco\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le K40 de ZKTeco est le lecteur biométrique d'empreintes digitales le plus populaire de la gamme professionnelle — reconnu pour sa fiabilité, sa compacité et ses performances de traitement dans les environnements de contrôle d'accès exigeants. Avec une capacité de 3000 empreintes, une vérification en moins de 0,5 seconde, une batterie intégrée de 5 heures et une connectivité TCP/IP complète, il répond aux besoins des entreprises marocaines de toutes tailles, des PME aux grandes structures multi-sites. Compatible avec le logiciel BIOTime 8.0 et les rapports SSR au format Excel, le K40 s'intègre immédiatement dans tout environnement RH ou de sécurité existant.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Capacité biométrique — 3 000 empreintes digitales et 3 000 cartes ID enregistrables, avec un journal de 200 000 événements</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Vérification ultra-rapide — identification de l'empreinte digitale garantie en moins de 0,5 seconde pour un flux d'accès fluide et sans attente</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Batterie intégrée 5 heures — fonctionnement autonome maintenu en cas de coupure électrique, sans interruption du contrôle d'accès</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Connectivité TCP/IP & USB hôte — intégration réseau filaire et transfert de données par USB pour une gestion centralisée ou hors ligne</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Écran TFT couleur 2,8 pouces — interface utilisateur claire et conviviale pour un paramétrage rapide sur site sans outil informatique</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Compatibilité logiciel BIOTime 8.0 — gestion avancée des présences, plannings et exports de rapports SSR au format Excel directement utilisables par les RH</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Fonctions avancées incluses — serveur web intégré, SMS, gestion des codes de travail, heure d'été automatique, sonnerie programmable et requête en libre service</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Options ID/Mifare disponibles — compatibilité cartes sans contact pour les entreprises souhaitant un accès hybride biométrie + badge</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Format compact & robuste — dimensions 184 × 136 × 37,6 mm, alimentation DC 12V, opérationnel de 0°C à 45°C pour tout environnement professionnel</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Meilleur rapport performance-prix de la gamme pointeuses BALENCIA — technologie ZKTeco mondiale à 960 MAD, idéale pour équiper plusieurs postes d'accès sans grever le budget</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Autonomie batterie 5h incluse en standard — une sécurité critique rarement proposée à ce niveau de prix, qui garantit la continuité du contrôle d'accès même lors des coupures électriques fréquentes au Maroc</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Distributeur BALENCIA certifié ZKTeco au Maroc — garantie produit, support technique, assistance à la configuration BIOTime et maintenance disponibles dans tout le royaume</li>\n      </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &bull; 💳 Paiement à la livraison &bull; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "Lecteur Biométrique K40 ZKTeco à 960 MAD au Maroc. 3000 empreintes, batterie intégrée 5h, TCP/IP, vérification 0,5 sec. Livraison gratuite. BALENCIA.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Pointeuse biométrique",
+  "slug": "lecteur-biometrique-k40-zkteco",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777137891/juhl9tngpdcmot5sjppg.png",
+      "alt": "Lecteur biométrique ZKTeco K40 : 3000 empreintes, batterie 5h, TCP/IP, vérification en 0,5 sec et logiciel BIOTime 8.0. Contrôle d'accès professionnel accessible."
+    }
+  ],
+  "name": "K40 Lecteur biométrique",
+  "publishedAt": "2026-04-25T17:24:55.431Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "K40 Lecteur biométrique",
+    "description": "Lecteur Biométrique K40 ZKTeco à 960 MAD au Maroc. 3000 empreintes, batterie intégrée 5h, TCP/IP, vérification 0,5 sec. Livraison gratuite. BALENCIA.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777137891/juhl9tngpdcmot5sjppg.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 960,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/lecteur-biometrique-k40-zkteco"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
