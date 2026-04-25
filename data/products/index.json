@@ -1,5 +1,22 @@
 [
   {
+    "slug": "pointeuse-biometrique-mb360-zkteco",
+    "title": "MB360 ZKTeco",
+    "name": "MB360 ZKTeco",
+    "price": 2200,
+    "oldPrice": 2700,
+    "discountPercentage": "18%",
+    "category": "Pointeuse biométrique",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777138666/md9aqqd990jgwdmsh71g.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777138666/md9aqqd990jgwdmsh71g.png",
+        "alt": "Pointeuse biométrique ZKTeco MB360 : reconnaissance faciale & empreintes en moins d'une seconde. Capacité 1 200 visages. Design premium, fiabilité absolue."
+      }
+    ],
+    "publishedAt": "2026-04-25T17:38:28.697Z"
+  },
+  {
     "slug": "lecteur-biometrique-k40-zkteco",
     "title": "K40 Lecteur biométrique",
     "name": "K40 Lecteur biométrique",
