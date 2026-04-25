@@ -1,5 +1,22 @@
 [
   {
+    "slug": "lecteur-biometrique-k40-zkteco",
+    "title": "K40 Lecteur biométrique",
+    "name": "K40 Lecteur biométrique",
+    "price": 960,
+    "oldPrice": 1200,
+    "discountPercentage": "20%",
+    "category": "Pointeuse biométrique",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777137891/juhl9tngpdcmot5sjppg.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777137891/juhl9tngpdcmot5sjppg.png",
+        "alt": "Lecteur biométrique ZKTeco K40 : 3000 empreintes, batterie 5h, TCP/IP, vérification en 0,5 sec et logiciel BIOTime 8.0. Contrôle d'accès professionnel accessible."
+      }
+    ],
+    "publishedAt": "2026-04-25T17:24:55.431Z"
+  },
+  {
     "slug": "pointeuse-biometrique-mb160-zkteco",
     "title": "MB160 ZKTeco",
     "name": "MB160 ZKTeco",
