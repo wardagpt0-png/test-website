@@ -1,5 +1,22 @@
 [
   {
+    "slug": "face-id-m7",
+    "title": "Face id M7",
+    "name": "Face id M7",
+    "price": 3190,
+    "oldPrice": 5800,
+    "discountPercentage": "45%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777132992/pj1tleeejyjciu0tx1c6.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777132992/pj1tleeejyjciu0tx1c6.png",
+        "alt": "Serrure Face ID M7 : reconnaissance faciale, 150 empreintes, 150 cartes, interphone audio et batterie 3800mAh. Sécurité premium, gestion jusqu'à 100 utilisateurs."
+      }
+    ],
+    "publishedAt": "2026-04-25T16:03:30.292Z"
+  },
+  {
     "slug": "poignee-digital-x5",
     "title": "Poignée Digital X5",
     "name": "Poignée Digital X5",
