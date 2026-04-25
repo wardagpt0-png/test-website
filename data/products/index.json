@@ -1,5 +1,22 @@
 [
   {
+    "slug": "serrure-digitale-x2",
+    "title": "SERRURE DIGITALE X2",
+    "name": "SERRURE DIGITALE X2",
+    "price": 1150,
+    "oldPrice": 1290,
+    "discountPercentage": "15%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777131570/zgz3k7nzzkz3ypwdwmqw.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777131570/zgz3k7nzzkz3ypwdwmqw.png",
+        "alt": "Serrure digitale X2 fiable et accessible : empreinte digitale, code PIN, carte IC et secours mécanique. L'essentiel de la sécurité, sans compromis."
+      }
+    ],
+    "publishedAt": "2026-04-25T15:39:32.679Z"
+  },
+  {
     "slug": "serrure-digital-ef-25",
     "title": "Serrure Digital EF 25",
     "name": "Serrure Digital EF 25",
