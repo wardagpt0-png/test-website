@@ -1,0 +1,51 @@
+{
+  "title": "QR600 Series Waterproof QR Code & RFID Reader",
+  "price": 1580,
+  "oldPrice": 1900,
+  "discountPercentage": "16%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    QR600 Series — Lecteur QR Code Dynamique & RFID Multi-Format Waterproof\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le QR600 Series est un lecteur de contrôle d'accès nouvelle génération, alliant lecture de QR codes dynamiques et reconnaissance multi-format de cartes RFID dans un boîtier métallique certifié IP65. Conçu pour les environnements extérieurs et les installations exigeantes, il prend en charge les accès mobiles sécurisés via l'application ZKBioSecurity, offrant une expérience visiteur moderne et sans contact. Sa compatibilité universelle avec les protocoles Wiegand, RS485 et OSDP en fait un lecteur de référence pour tout système de contrôle d'accès professionnel au Maroc.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ QR codes dynamiques via application mobile ZKBioSecurity — accès visiteurs temporaires et sécurisés sans badge physique</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Multi-format codes barres : QR code, PDF417, Data Matrix, MicroPDF417 et Aztec — lecture universelle de tous les justificatifs</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ RFID multi-cartes 125 kHz & 13,56 MHz — Ultralight, Mifare S50/S70, CPU, NFC, DESFire EV1, NTag et cartes ID classiques</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Boîtier métal robuste certifié IP65 — étanchéité totale à l'eau et à la poussière pour usage intérieur et extérieur intensif</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Triple protocole de communication : Wiegand, RS485 et OSDP — intégration native avec tout contrôleur d'accès du marché</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Clavier intégré — saisie de code PIN en complément ou en remplacement du badge pour une authentification multi-facteurs</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Expertise confirmée en contrôle d'accès connecté au Maroc — intégration QR600 dans vos flux visiteurs, livraisons ou accès temporaires</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Compatibilité vérifiée avec votre parc de badges et contrôleurs existants — déploiement sans remplacement de l'infrastructure en place</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Installation certifiée, formation utilisateurs et SAV réactif — votre lecteur opérationnel et maintenu sur le long terme</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &nbsp;•&nbsp; 💳 Paiement à la livraison &nbsp;•&nbsp; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "QR600 lecteur QR code & RFID waterproof à 1 580 MAD — IP65, QR dynamique, Mifare, NFC, DESFire au Maroc. Livraison gratuite. BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Contrôle d'accès",
+  "slug": "qr600-lecteur-qr-code-dynamique-rfid-waterproof-ip65",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145691/lg1jgcqrmjkaxqbsiuew.png",
+      "alt": "Lecteur QR code dynamique + RFID multi-format en boîtier métal IP65. Wiegand, RS485, OSDP — accès mobile sécurisé via ZKBioSecurity. Extérieur certifié."
+    }
+  ],
+  "name": "QR600 Series Waterproof QR Code & RFID Reader",
+  "publishedAt": "2026-04-25T19:34:54.150Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "QR600 Series Waterproof QR Code & RFID Reader",
+    "description": "QR600 lecteur QR code & RFID waterproof à 1 580 MAD — IP65, QR dynamique, Mifare, NFC, DESFire au Maroc. Livraison gratuite. BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145691/lg1jgcqrmjkaxqbsiuew.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 1580,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/qr600-lecteur-qr-code-dynamique-rfid-waterproof-ip65"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
