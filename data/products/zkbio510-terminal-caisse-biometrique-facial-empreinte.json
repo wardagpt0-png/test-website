@@ -1,0 +1,51 @@
+{
+  "title": "ZKBIO510 Terminal caisse",
+  "price": 6195,
+  "oldPrice": 7295,
+  "discountPercentage": "15%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    ZKBIO510 — Terminal Caisse Biométrique Facial & Empreinte Nouvelle Génération\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le ZKBIO510 redéfinit le standard du terminal de point de vente en intégrant une double biométrie — reconnaissance faciale et empreinte digitale — au cœur d'une solution de caisse complète, fluide et sécurisée. Conçu pour les commerces modernes exigeant traçabilité, rapidité et contrôle des accès opérateurs, il élimine les risques de fraude interne tout en accélérant chaque transaction. De la boutique indépendante au grand point de vente, le ZKBIO510 s'adapte à toutes les réalités du commerce marocain.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Double biométrie : reconnaissance faciale + empreinte digitale — identification caissier instantanée, zéro risque d'accès non autorisé</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Écran tactile haute résolution — interface intuitive pour une navigation rapide entre fonctions de vente, remises et rapports</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Connectivité triple : Wi-Fi, Ethernet et Bluetooth — intégration immédiate dans tout environnement réseau commercial existant</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Interface utilisateur personnalisable — adaptation de l'environnement POS aux processus spécifiques de chaque enseigne</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Gestion complète des transactions — paiements, remises, annulations et rapports de vente centralisés en temps réel</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Construction robuste et matériaux durables — conçu pour une utilisation intensive en environnement commercial à fort trafic</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Adaptabilité multi-environnements — déployable dans les petits commerces comme dans les grandes surfaces sans configuration complexe</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Déploiement clé en main au Maroc — installation, paramétrage complet et formation des équipes caisse inclus dès la livraison</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Expertise biométrique ZKTeco — intégration de la double authentification dans vos processus métiers sans interruption d'activité</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Garantie officielle constructeur et support technique prioritaire — performance et sécurité de votre caisse maintenues 365 jours par an</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &nbsp;•&nbsp; 💳 Paiement à la livraison &nbsp;•&nbsp; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "ZKBIO510 terminal caisse biométrique à 6 195 MAD — Facial, empreinte, tactile, Wi-Fi, anti-fraude pour commerces au Maroc. Livraison gratuite. BALENCIA.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Caisse automatique",
+  "slug": "zkbio510-terminal-caisse-biometrique-facial-empreinte",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777146343/urf4rp6puspih5a8gwq7.png",
+      "alt": "Terminal POS biométrique facial + empreinte, écran tactile haute résolution, Wi-Fi/Ethernet/Bluetooth. Sécurité maximale et gestion de caisse intelligente."
+    }
+  ],
+  "name": "ZKBIO510 Terminal caisse",
+  "publishedAt": "2026-04-25T19:45:45.929Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "ZKBIO510 Terminal caisse",
+    "description": "ZKBIO510 terminal caisse biométrique à 6 195 MAD — Facial, empreinte, tactile, Wi-Fi, anti-fraude pour commerces au Maroc. Livraison gratuite. BALENCIA.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777146343/urf4rp6puspih5a8gwq7.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 6195,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/zkbio510-terminal-caisse-biometrique-facial-empreinte"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
