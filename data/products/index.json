@@ -1,5 +1,22 @@
 [
   {
+    "slug": "serrure-digital-em-21",
+    "title": "serrure digital EM 21",
+    "name": "serrure digital EM 21",
+    "price": 2790,
+    "oldPrice": 3990,
+    "discountPercentage": "30%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777130585/y5rtnjlbmxbkwoe7m0a8.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777130585/y5rtnjlbmxbkwoe7m0a8.png",
+        "alt": "Serrure connectée EM 21 avec caméra HD, reconnaissance faciale, empreinte digitale et contrôle Tuya WiFi. Sécurité maximale, confort absolu."
+      }
+    ],
+    "publishedAt": "2026-04-25T15:23:11.514Z"
+  },
+  {
     "slug": "serrure-digital-d5",
     "title": "Serrure Digital D5",
     "name": "Serrure Digital D5",
