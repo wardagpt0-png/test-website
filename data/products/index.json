@@ -1,5 +1,22 @@
 [
   {
+    "slug": "qr600-lecteur-qr-code-dynamique-rfid-waterproof-ip65",
+    "title": "QR600 Series Waterproof QR Code & RFID Reader",
+    "name": "QR600 Series Waterproof QR Code & RFID Reader",
+    "price": 1580,
+    "oldPrice": 1900,
+    "discountPercentage": "16%",
+    "category": "Contrôle d'accès",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145691/lg1jgcqrmjkaxqbsiuew.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145691/lg1jgcqrmjkaxqbsiuew.png",
+        "alt": "Lecteur QR code dynamique + RFID multi-format en boîtier métal IP65. Wiegand, RS485, OSDP — accès mobile sécurisé via ZKBioSecurity. Extérieur certifié."
+      }
+    ],
+    "publishedAt": "2026-04-25T19:34:54.150Z"
+  },
+  {
     "slug": "ma300-terminal-biometrique-waterproof-empreinte-rfid",
     "title": "MA300 Waterproof Fingerprint and RFID Cards Terminal",
     "name": "MA300 Waterproof Fingerprint and RFID Cards Terminal",
