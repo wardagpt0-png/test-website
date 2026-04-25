@@ -1,5 +1,22 @@
 [
   {
+    "slug": "speedface-v5l-terminal-biometrique-facial-multi-authentification",
+    "title": "SpeedFace-V5L",
+    "name": "SpeedFace-V5L",
+    "price": 4400,
+    "oldPrice": 4700,
+    "discountPercentage": "6%",
+    "category": "Contrôle d'accès",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777144071/kqri80mbtryzpki26rkk.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777144071/kqri80mbtryzpki26rkk.png",
+        "alt": "Terminal biométrique 4-en-1 : visage, empreinte, paume et QR code. IP65, 200 000 logs, reconnaissance ultra-rapide. Contrôle d'accès nouvelle génération."
+      }
+    ],
+    "publishedAt": "2026-04-25T19:07:54.007Z"
+  },
+  {
     "slug": "proid30-lecteur-rfid-multi-tech-multi-frequence",
     "title": "ProID30",
     "name": "ProID30",
