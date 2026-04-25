@@ -1,0 +1,51 @@
+{
+  "title": "F18",
+  "price": 2090,
+  "oldPrice": 2490,
+  "discountPercentage": "16%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">F18 — Lecteur Biométrique Haute Performance pour Contrôle d'Accès</h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le ZKTeco F18 s'impose comme l'un des lecteurs biométriques les plus aboutis de sa catégorie, propulsé par la plateforme matérielle ZMM210 et son processeur 1,2 GHz pour une vérification d'empreintes digitales en moins d'une seconde, sans compromis sur la précision. Son firmware haute performance — compatible ZKBio CVAccess et ZKBiotime — lui confère une flexibilité d'intégration rare, en mode autonome ou connecté à tout panneau Wiegand standard. Compact, inviolable et doté d'indications audiovisuelles intuitives, le F18 est la référence BALENCIA pour sécuriser chaque accès stratégique au Maroc.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">CARACTÉRISTIQUES TECHNIQUES</h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Processeur ZMM210 1,2 GHz — reconnaissance d'empreinte en moins d'une seconde avec capteur optique ZKTeco haute précision</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Capacité : 3 000 modèles d'empreintes / 5 000 cartes / 30 000 transactions — dimensionné pour les grandes structures</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Multi-méthodes : empreinte digitale seule ou combinée à la carte — lecteur de carte à puce intégré en option</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Connectivité : TCP/IP Ethernet & ports série intégrés — signal Wiegand standard pour compatibilité universelle</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Firmware AC Push (ZKBio CVAccess) standard + firmware autonome & TA Push (ZKBiotime) disponibles en option</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Interrupteur inviolable, sorties d'alarme, contact de demande de sortie — sécurité physique et logique intégrée</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Indications audiovisuelles claires pour acceptation/rejet — gestion multi-niveaux avec privilèges flexibles par utilisateur</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">POURQUOI CHOISIR BALENCIA ?</h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Intégration réseau sur mesure — nos techniciens certifiés configurent le F18 en mode autonome ou connecté à votre infrastructure existante, partout au Maroc</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Garantie constructeur & support technique dédié — un interlocuteur unique pour assurer la continuité et la performance de votre sécurité</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ BALENCIA, référence marocaine de la sécurité intelligente — produits ZKTeco 100% authentiques, sélectionnés, livrés et installés avec excellence</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">🚚 Livraison gratuite partout au Maroc • 💳 Paiement à la livraison • 🔄 Retour gratuit sous 14 jours</p>\n  </div>\n\n</div>",
+  "metaDescription": "F18 ZKTeco – Lecteur biométrique contrôle d'accès à 2 090 MAD. Livraison gratuite au Maroc. Empreintes, carte & TCP/IP — BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Contrôle d'accès porte",
+  "slug": "lecteur-biometrique-controle-acces-f18-zkteco",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777140443/isyshaw3nmtb2bnblclo.png",
+      "alt": "Lecteur biométrique ZKTeco F18 : processeur 1,2 GHz, vérification empreinte en 1 seconde, Wiegand & TCP/IP. Contrôle d'accès porte haute fiabilité au Maroc."
+    }
+  ],
+  "name": "F18",
+  "publishedAt": "2026-04-25T18:07:40.010Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "F18",
+    "description": "F18 ZKTeco – Lecteur biométrique contrôle d'accès à 2 090 MAD. Livraison gratuite au Maroc. Empreintes, carte & TCP/IP — BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777140443/isyshaw3nmtb2bnblclo.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 2090,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/lecteur-biometrique-controle-acces-f18-zkteco"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
