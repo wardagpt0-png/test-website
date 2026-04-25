@@ -1,5 +1,22 @@
 [
   {
+    "slug": "poignee-digital-em22",
+    "title": "Poignée Digital EM22",
+    "name": "Poignée Digital EM22",
+    "price": 2890,
+    "oldPrice": 3000,
+    "discountPercentage": "3%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777133265/diaccx53mchqkdowsfpr.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777133265/diaccx53mchqkdowsfpr.png",
+        "alt": "poignee-digital-em22.png"
+      }
+    ],
+    "publishedAt": "2026-04-25T16:07:52.849Z"
+  },
+  {
     "slug": "face-id-m7",
     "title": "Face id M7",
     "name": "Face id M7",
