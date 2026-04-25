@@ -7,9 +7,14 @@
     "oldPrice": 3900,
     "discountPercentage": "18%",
     "category": "Serrure intelligente",
-    "image": "",
-    "images": [],
-    "publishedAt": "2026-04-25T15:34:51.501Z"
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777131303/gsnmhhyeldwixkrphutt.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777131303/gsnmhhyeldwixkrphutt.png",
+        "alt": "Serrure connectée EF 25 avec caméra HD, reconnaissance faciale & biométrique, alarme intégrée et interphone visuel. Sécurité totale, contrôle absolu."
+      }
+    ],
+    "publishedAt": "2026-04-25T15:35:05.585Z"
   },
   {
     "slug": "face-id-luxury-x10",
