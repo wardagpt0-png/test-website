@@ -1,5 +1,22 @@
 [
   {
+    "slug": "coffre-fort-ignifuge-ff45",
+    "title": "Coffre-Fort Ignifuge FF-45",
+    "name": "Coffre-Fort Ignifuge FF-45",
+    "price": 3390,
+    "oldPrice": 5400,
+    "discountPercentage": "37%",
+    "category": "Coffre Fort",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777135559/doswhr0bxkrkjtsmolve.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777135559/doswhr0bxkrkjtsmolve.png",
+        "alt": "Coffre-fort ignifuge FF-45 : protection anti-feu par joints intumescents, biométrie 0,5 sec, app Tuya et motorisé. Vos biens sécurisés contre tout."
+      }
+    ],
+    "publishedAt": "2026-04-25T16:46:02.151Z"
+  },
+  {
     "slug": "coffre-fort-intelligent-w45",
     "title": "Coffre-Fort Intelligent W-45",
     "name": "Coffre-Fort Intelligent W-45",
