@@ -1,0 +1,51 @@
+{
+  "title": "Face id luxury EF26",
+  "price": 3190,
+  "oldPrice": 5800,
+  "discountPercentage": "45%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    Face ID Luxury EF26\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    La Face ID Luxury EF26 s'impose comme la référence intermédiaire de la gamme premium BALENCIA — alliant surveillance caméra en temps réel, reconnaissance faciale avancée et communication visuelle bidirectionnelle dans un boîtier d'une élégance remarquable. Conçue pour les foyers et espaces professionnels qui exigent une sécurité active et réactive, elle anticipe chaque intrusion grâce à son alarme automatique et tient son propriétaire informé à chaque instant. Connectée, intuitive et dotée d'un interphone visuel intégré, l'EF26 redéfinit ce que doit être une serrure intelligente au Maroc.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Caméra de surveillance intégrée — visualisation en temps réel depuis l'application smartphone, pour une veille continue jour et nuit</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Reconnaissance faciale haute précision — déverrouillage automatique et instantané sans contact pour les utilisateurs autorisés</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Capteur biométrique empreinte digitale — accès personnel sécurisé, rapide et infalsifiable pour chaque utilisateur enregistré</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Alarme anti-intrusion puissante — déclenchement automatique et notification push immédiate sur smartphone dès toute tentative d'effraction détectée</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Interphone visuel bidirectionnel — écran intérieur activé automatiquement à chaque sonnette pour voir et dialoguer sans ouvrir la porte</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Contrôle complet via smartphone — gestion des accès, surveillance en direct et paramétrage à distance depuis n'importe où dans le monde</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Accès multimode sans clé — reconnaissance faciale, empreinte digitale, code PIN ou application mobile selon chaque situation</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Le meilleur équilibre technologie-prix de la gamme Face ID Luxury — quatre fonctions actives de sécurité réunies dans un seul dispositif à 3190 MAD</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Protection proactive et non plus passive — l'EF26 ne se contente pas de sécuriser votre porte, elle surveille, alerte et communique en temps réel</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Marque marocaine de référence — conseil à l'achat, installation professionnelle par des techniciens certifiés et service après-vente disponible dans tout le Maroc</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &bull; 💳 Paiement à la livraison &bull; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "Face ID Luxury EF26 à 3190 MAD au Maroc. Caméra HD, Face ID, alarme puissante, interphone visuel connecté. Livraison gratuite. BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Serrure intelligente",
+  "slug": "face-id-luxury-ef26",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777134679/pajna8n6vttsgdbjc40j.png",
+      "alt": "Serrure Face ID Luxury EF26 : caméra HD, reconnaissance faciale, alarme anti-intrusion et interphone visuel. Sécurité intelligente, design d'exception."
+    }
+  ],
+  "name": "Face id luxury EF26",
+  "publishedAt": "2026-04-25T16:31:21.248Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Face id luxury EF26",
+    "description": "Face ID Luxury EF26 à 3190 MAD au Maroc. Caméra HD, Face ID, alarme puissante, interphone visuel connecté. Livraison gratuite. BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777134679/pajna8n6vttsgdbjc40j.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 3190,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/face-id-luxury-ef26"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
