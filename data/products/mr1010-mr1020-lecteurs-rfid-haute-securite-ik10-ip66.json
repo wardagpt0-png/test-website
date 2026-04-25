@@ -1,0 +1,51 @@
+{
+  "title": "MR1010 - MR1020",
+  "price": 550,
+  "oldPrice": 650,
+  "discountPercentage": "18%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    MR1010 / MR1020 — Lecteurs RFID Haute Sécurité IK10 / IP66 Tout Environnement\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Les lecteurs MR1010 et MR1020 sont des références incontournables pour les installations de contrôle d'accès en environnement extérieur ou hostile, combinant la certification anti-vandalisme IK10 — le niveau de protection mécanique le plus élevé — et l'étanchéité IP66 dans un boîtier métal compact et élégant. Disponibles respectivement en 125 kHz et 13,56 MHz, ils couvrent l'ensemble des formats de badges RFID professionnels et opèrent sans défaillance de -40°C à +60°C. Un choix d'excellence pour les sites industriels, institutionnels et résidentiels sécurisés au Maroc.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Certification IK10 anti-vandalisme — résistance maximale aux chocs et tentatives d'effraction physique</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Certification IP66 étanche — protection totale contre les jets d'eau puissants et la poussière en extérieur</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Double fréquence disponible : MR1010 à 125 kHz (ID) / MR1020 à 13,56 MHz (IC) — couverture complète des badges du marché</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Plage de température -40°C à +60°C — fiabilité garantie dans les environnements climatiques les plus extrêmes</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Sorties Wiegand 26 et 34 bits — compatibilité universelle avec l'ensemble des contrôleurs d'accès du marché</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Distance de lecture 2 à 6 cm — détection précise et rapide, sans faux déclenchements ni interférences</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Boîtier en métal pleine masse — durabilité et finition premium adaptées aux installations longue durée</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Conseil expert pour choisir entre MR1010 et MR1020 selon votre parc de badges et votre contrôleur d'accès existant</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Installation terrain par nos techniciens certifiés — câblage Wiegand, tests de lecture et validation de portée inclus</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Rapport qualité-prix imbattable pour un lecteur IK10/IP66 — la sécurité haute résistance accessible aux entreprises marocaines</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &nbsp;•&nbsp; 💳 Paiement à la livraison &nbsp;•&nbsp; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "MR1010 & MR1020 lecteurs RFID haute sécurité à 550 MAD — IK10, IP66, métal, -40°C à 60°C, Wiegand au Maroc. Livraison gratuite. BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Contrôle d'accès",
+  "slug": "mr1010-mr1020-lecteurs-rfid-haute-securite-ik10-ip66",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145930/zvilhxskwmkonzlczqwg.png",
+      "alt": "Lecteurs RFID haute sécurité IK10/IP66, boîtier métal, -40°C à +60°C. 125 kHz ou 13,56 MHz, Wiegand 26/34 bits. Robustesse extrême pour l'extérieur."
+    }
+  ],
+  "name": "MR1010 - MR1020",
+  "publishedAt": "2026-04-25T19:38:52.661Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "MR1010 - MR1020",
+    "description": "MR1010 & MR1020 lecteurs RFID haute sécurité à 550 MAD — IK10, IP66, métal, -40°C à 60°C, Wiegand au Maroc. Livraison gratuite. BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145930/zvilhxskwmkonzlczqwg.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 550,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/mr1010-mr1020-lecteurs-rfid-haute-securite-ik10-ip66"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
