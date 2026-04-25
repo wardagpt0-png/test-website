@@ -1,5 +1,22 @@
 [
   {
+    "slug": "proid30-lecteur-rfid-multi-tech-multi-frequence",
+    "title": "ProID30",
+    "name": "ProID30",
+    "price": 230,
+    "oldPrice": 350,
+    "discountPercentage": "34%",
+    "category": "Contrôle d'accès",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777143724/wfwzjeodkh2x3urdvycx.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777143724/wfwzjeodkh2x3urdvycx.png",
+        "alt": "Lecteur RFID multi-fréquence ProID30 — compatible ID, IC, NFC, DESFire EV1/EV2, clavier tactile, IP66. Intégration universelle Wiegand/RS485."
+      }
+    ],
+    "publishedAt": "2026-04-25T19:02:06.265Z"
+  },
+  {
     "slug": "ma300-bt-terminal-biometrique-waterproof-empreinte-rfid-bluetooth",
     "title": "MA300-BT Waterproof Fingerprint and RFID Cards Terminal with Bluetooth",
     "name": "MA300-BT Waterproof Fingerprint and RFID Cards Terminal with Bluetooth",
