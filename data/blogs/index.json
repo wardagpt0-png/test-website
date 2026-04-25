@@ -1,5 +1,18 @@
 [
   {
+    "slug": "securiser-maison-maroc-avant-vacances-conseils",
+    "title": "Sécuriser sa Maison au Maroc avant les Vacances : 5 Conseils",
+    "name": "Sécuriser sa Maison au Maroc avant les Vacances : 5 Conseils",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777075971/urlvhaisgji0aosyg6qz.jpg",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777075971/urlvhaisgji0aosyg6qz.jpg",
+        "alt": "Partez en vacances l'esprit tranquille. Découvrez 5 conseils essentiels pour sécuriser votre maison au Maroc avec les solutions BALENCIA Smart Security."
+      }
+    ],
+    "publishedAt": "2026-04-25T00:12:53.981Z"
+  },
+  {
     "slug": "serrure-classique-vs-serrure-intelligente-maroc",
     "title": "Serrure Classique vs Serrure Intelligente : Que Choisir au Maroc ?",
     "name": "Serrure Classique vs Serrure Intelligente : Que Choisir au Maroc ?",
@@ -11,18 +24,5 @@
       }
     ],
     "publishedAt": "2026-04-25T00:06:09.803Z"
-  },
-  {
-    "slug": "articl-fe",
-    "title": "Titre de l'article *",
-    "name": "Titre de l'article *",
-    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776980513/j2yqfqsxhm7nnxaipypm.jpg",
-    "images": [
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1776980513/j2yqfqsxhm7nnxaipypm.jpg",
-        "alt": "Image_fx (3).png"
-      }
-    ],
-    "publishedAt": "2026-04-23T23:30:30.291Z"
   }
 ]
