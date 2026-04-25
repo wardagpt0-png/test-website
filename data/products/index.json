@@ -1,5 +1,22 @@
 [
   {
+    "slug": "tourniquet-mts1000-series",
+    "title": "Tourniquet MTS1000 Series",
+    "name": "Tourniquet MTS1000 Series",
+    "price": 7735,
+    "oldPrice": 7935,
+    "discountPercentage": "2%",
+    "category": "Tourniquet tripode",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777142826/wdadyomqxepbbwysm8mh.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777142826/wdadyomqxepbbwysm8mh.png",
+        "alt": "Tourniquet tripode bidirectionnel en acier inoxydable SUS304, avec pictogrammes LED intuitifs et chute de bras automatique. Fiabilité professionnelle, consommation maîtrisée."
+      }
+    ],
+    "publishedAt": "2026-04-25T18:47:11.242Z"
+  },
+  {
     "slug": "tourniquet-mars-pro-s1000",
     "title": "Tourniquet MARS Pro-S1000",
     "name": "Tourniquet MARS Pro-S1000",
