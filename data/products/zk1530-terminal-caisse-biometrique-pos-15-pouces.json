@@ -1,0 +1,51 @@
+{
+  "title": "ZK1530 Terminal caisse",
+  "price": 11130,
+  "oldPrice": 12000,
+  "discountPercentage": "7%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    ZK1530 — Terminal Caisse Biométrique Tout-en-Un 15 Pouces\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le ZK1530 est un terminal de point de vente intelligent de nouvelle génération, combinant la puissance d'un processeur Intel® Celeron J1900 Quad-Core 2,0 GHz à la sécurité biométrique ZKTeco pour une gestion de caisse fiable, rapide et infalsifiable. Son écran LCD tactile 15 pouces sans cadre, son lecteur d'empreintes digitales intégré et sa compatibilité multi-OS en font la solution idéale pour les commerces, grandes surfaces et établissements marocains souhaitant éliminer le vol interne et accélérer le service client. Un investissement stratégique au carrefour de la performance et de la sécurité.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Processeur Intel® Celeron J1900 Quad-Core 2,0 GHz — fluidité et stabilité optimales pour les environnements POS intensifs</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Écran LCD TFT 15\" sans cadre, rétroéclairage LED, résolution 1024×768 — affichage net et lisible en toutes conditions d'éclairage</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Écran tactile résistif 5 fils ou capacitif projeté — précision de saisie maximale pour une opération caisse rapide et sans erreur</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Lecteur d'empreintes digitales USB ZKTeco SLK20R intégré — authentification caissier, prévention du vol interne et traçabilité des transactions</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Stockage 64 Go mSATA SSD + slots HDD/SSD 2,5\" — rapidité système et capacité évolutive selon les besoins métiers</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Multi-connectivité : 6×USB, RS232, HDMI, RJ45, MSR 3 pistes — intégration complète de tous vos périphériques de caisse</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Compatible Windows 7/8/10 IoT, POS Ready 7 et Linux — flexibilité totale avec votre logiciel de caisse existant</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Second écran client 15\" TFT + affichage VFD 20×2 — expérience client transparente et professionnelle à chaque transaction</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Solution clé en main pour commerces marocains — installation, configuration logicielle et formation des équipes caisse assurées par nos experts</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Intégration biométrique ZKTeco éprouvée — réduction immédiate du vol interne et responsabilisation de chaque caissier par empreinte unique</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ SAV prioritaire et garantie officielle — continuité de votre activité commerciale assurée sans interruption de service</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &nbsp;•&nbsp; 💳 Paiement à la livraison &nbsp;•&nbsp; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "ZK1530 terminal caisse biométrique à 11 130 MAD — POS 15\" tactile, empreinte digitale, Intel Celeron, anti-vol au Maroc. Livraison gratuite. BALENCIA.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Caisse automatique",
+  "slug": "zk1530-terminal-caisse-biometrique-pos-15-pouces",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777146170/c51fibepdiaou3w3tzs4.png",
+      "alt": "Terminal POS biométrique tout-en-un 15\", Intel Celeron Quad-Core, lecteur d'empreintes intégré. Sécurisez vos transactions et éliminez le vol en caisse."
+    }
+  ],
+  "name": "ZK1530 Terminal caisse",
+  "publishedAt": "2026-04-25T19:42:52.306Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "ZK1530 Terminal caisse",
+    "description": "ZK1530 terminal caisse biométrique à 11 130 MAD — POS 15\" tactile, empreinte digitale, Intel Celeron, anti-vol au Maroc. Livraison gratuite. BALENCIA.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777146170/c51fibepdiaou3w3tzs4.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 11130,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/zk1530-terminal-caisse-biometrique-pos-15-pouces"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
