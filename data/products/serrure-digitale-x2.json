@@ -1,0 +1,51 @@
+{
+  "title": "SERRURE DIGITALE X2",
+  "price": 1150,
+  "oldPrice": 1290,
+  "discountPercentage": "15%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    Serrure Digitale X2\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    La Serrure Digitale X2 est la solution d'entrée de gamme premium de BALENCIA — pensée pour offrir une sécurité fiable, polyvalente et accessible à tous les foyers marocains. Avec quatre modes d'accès distincts et un système de secours double, elle garantit que vous ne serez jamais bloqué, quelles que soient les circonstances. Robuste, intuitive et autonome, la X2 est l'alliée quotidienne de ceux qui veulent sécuriser leur espace sans complexité.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Reconnaissance biométrique par empreinte digitale — accès instantané et sécurisé sans clé ni code à mémoriser</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Code PIN personnalisé — déverrouillage par mot de passe configurable pour chaque utilisateur autorisé</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Compatibilité carte IC — accès par badge avec écran d'affichage intégré pour une utilisation intuitive</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Batterie longue durée — 8 compartiments à piles pour une autonomie prolongée sans remplacement fréquent</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Alimentation d'urgence USB — rechargement externe possible en cas de piles déchargées, sans jamais rester bloqué</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Cylindre mécanique de secours — ouverture par clé physique garantie en cas de panne électronique ou de batterie</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Meilleur rapport qualité-prix de la gamme BALENCIA — technologie digitale fiable à un tarif accessible pour tous les foyers</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Sécurité sans faille grâce au double système de secours — USB et mécanique — pour une continuité d'accès en toutes situations</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Marque marocaine de proximité — livraison rapide, installation disponible et service après-vente réactif dans tout le Maroc</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &bull; 💳 Paiement à la livraison &bull; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "Serrure Digitale X2 à 1150 MAD au Maroc. Empreinte digitale, code PIN, carte IC, secours USB et mécanique. Livraison gratuite. BALENCIA Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Serrure intelligente",
+  "slug": "serrure-digitale-x2",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777131570/zgz3k7nzzkz3ypwdwmqw.png",
+      "alt": "Serrure digitale X2 fiable et accessible : empreinte digitale, code PIN, carte IC et secours mécanique. L'essentiel de la sécurité, sans compromis."
+    }
+  ],
+  "name": "SERRURE DIGITALE X2",
+  "publishedAt": "2026-04-25T15:39:32.679Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SERRURE DIGITALE X2",
+    "description": "Serrure Digitale X2 à 1150 MAD au Maroc. Empreinte digitale, code PIN, carte IC, secours USB et mécanique. Livraison gratuite. BALENCIA Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777131570/zgz3k7nzzkz3ypwdwmqw.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 1150,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/serrure-digitale-x2"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
