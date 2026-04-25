@@ -1,0 +1,51 @@
+{
+  "title": "SpeedFace-V5L",
+  "price": 4400,
+  "oldPrice": 4700,
+  "discountPercentage": "6%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    SpeedFace-V5L — Terminal Biométrique Facial Multi-Authentification\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le SpeedFace-V5L représente l'état de l'art en matière de contrôle d'accès biométrique, combinant reconnaissance faciale par intelligence artificielle, empreinte digitale, reconnaissance de la paume et code QR mobile en un seul terminal d'exception. Conçu pour les environnements professionnels les plus exigeants, il opère avec une précision et une rapidité remarquables, même dans des conditions météorologiques extrêmes grâce à sa certification IP65. C'est la solution de référence pour toute entreprise marocaine souhaitant élever son niveau de sécurité sans compromis.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Quadruple authentification — reconnaissance faciale IA, empreinte digitale, paume et code QR mobile</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Certification IP65 — étanchéité complète eau et poussière, opérationnel en conditions extrêmes</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Grande capacité : 500 modèles faciaux, 3 000 empreintes, 3 000 cartes RFID et 200 000 journaux de transactions</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Modules RFID double fréquence — carte ID 125 kHz et carte IC 13,56 MHz compatibles</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Éclairage d'appoint intégré à luminosité réglable — reconnaissance fiable en toute condition lumineuse</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Serveur web embarqué — configuration et administration du système directement depuis un navigateur</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Leader du contrôle d'accès biométrique au Maroc — expertise reconnue dans le déploiement de solutions ZKTeco haut de gamme</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Installation clé en main, formation des équipes et paramétrage complet assurés par nos ingénieurs certifiés</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Garantie officielle constructeur et support technique dédié — votre sécurité opérationnelle 365 jours par an</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &nbsp;•&nbsp; 💳 Paiement à la livraison &nbsp;•&nbsp; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "SpeedFace-V5L terminal biométrique facial à 4 400 MAD — Visage, empreinte, paume, QR code, IP65 au Maroc. Livraison gratuite. BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Contrôle d'accès",
+  "slug": "speedface-v5l-terminal-biometrique-facial-multi-authentification",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777144071/kqri80mbtryzpki26rkk.png",
+      "alt": "Terminal biométrique 4-en-1 : visage, empreinte, paume et QR code. IP65, 200 000 logs, reconnaissance ultra-rapide. Contrôle d'accès nouvelle génération."
+    }
+  ],
+  "name": "SpeedFace-V5L",
+  "publishedAt": "2026-04-25T19:07:54.007Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SpeedFace-V5L",
+    "description": "SpeedFace-V5L terminal biométrique facial à 4 400 MAD — Visage, empreinte, paume, QR code, IP65 au Maroc. Livraison gratuite. BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777144071/kqri80mbtryzpki26rkk.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 4400,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/speedface-v5l-terminal-biometrique-facial-multi-authentification"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
