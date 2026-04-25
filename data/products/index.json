@@ -1,5 +1,22 @@
 [
   {
+    "slug": "lecteur-biometrique-controle-acces-f18-zkteco",
+    "title": "F18",
+    "name": "F18",
+    "price": 2090,
+    "oldPrice": 2490,
+    "discountPercentage": "16%",
+    "category": "Contrôle d'accès porte",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777140443/isyshaw3nmtb2bnblclo.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777140443/isyshaw3nmtb2bnblclo.png",
+        "alt": "Lecteur biométrique ZKTeco F18 : processeur 1,2 GHz, vérification empreinte en 1 seconde, Wiegand & TCP/IP. Contrôle d'accès porte haute fiabilité au Maroc."
+      }
+    ],
+    "publishedAt": "2026-04-25T18:07:40.010Z"
+  },
+  {
     "slug": "lecteur-biometrique-controle-acces-f22-zkteco",
     "title": "F22",
     "name": "F22",
