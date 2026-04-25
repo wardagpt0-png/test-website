@@ -1,0 +1,51 @@
+{
+  "title": "Tourniquet MARS Pro-S1000",
+  "price": 15250,
+  "oldPrice": 16550,
+  "discountPercentage": "7%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    Tourniquet MARS Pro-S1000\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le MARS Pro-S1000 représente l'excellence technologique de ZKTeco dans le contrôle d'accès professionnel. Conçu pour les environnements exigeants — sites industriels, entreprises et institutions —, il allie une sécurité anti-intrusion de niveau supérieur à une esthétique épurée digne des standards BALENCIA. Une solution de contrôle de flux pensée pour durer, intégrer et protéger.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Jusqu'à 22 paires de capteurs infrarouges — détection anti-talonnage ultra-précise</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Conception modulaire à encliquetage sans vis — installation et maintenance simplifiées</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Gain de temps de production jusqu'à 30 % grâce à l'architecture snap-in brevetée</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Intégration native avec les systèmes de contrôle d'accès ZKTeco et tiers</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Structure robuste en acier inoxydable — résistance mécanique et finition premium</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Modes unidirectionnel et bidirectionnel — adapté à tous les flux de circulation</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Expertise exclusive en sécurité physique et contrôle d'accès au Maroc depuis des années</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Installation professionnelle et SAV réactif assurés par nos techniciens certifiés</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Produits authentiques ZKTeco avec garantie officielle et accompagnement sur mesure</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &nbsp;•&nbsp; 💳 Paiement à la livraison &nbsp;•&nbsp; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "Tu es un expert en rédaction de fiches produits e-commerce pour BALENCIA Smart Security, une marque marocaine de luxe spécialisée en serrures digitales, pointeu",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Tourniquet tripode",
+  "slug": "tourniquet-mars-pro-s1000",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777142640/t7adjz1mwigqiuz6wahu.png",
+      "alt": "Tourniquet tripode haut de gamme ZKTeco, doté de 22 paires de capteurs infrarouges anti-talonnage. Contrôle d'accès intelligent, installation modulaire sans vis. Sécurité absolue."
+    }
+  ],
+  "name": "Tourniquet MARS Pro-S1000",
+  "publishedAt": "2026-04-25T18:44:02.959Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Tourniquet MARS Pro-S1000",
+    "description": "Tu es un expert en rédaction de fiches produits e-commerce pour BALENCIA Smart Security, une marque marocaine de luxe spécialisée en serrures digitales, pointeu",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777142640/t7adjz1mwigqiuz6wahu.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 15250,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/tourniquet-mars-pro-s1000"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
