@@ -1,0 +1,51 @@
+{
+  "title": "KF1000",
+  "price": 1790,
+  "oldPrice": 2290,
+  "discountPercentage": "21%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">KF1000 — Lecteur Biométrique Facial Nouvelle Génération</h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le KF1000 de ZKTeco représente l'excellence de la reconnaissance faciale à lumière visible, offrant une identification instantanée d'une précision et d'une stabilité inégalées dans le secteur. Conçu spécifiquement pour fonctionner en synergie avec les contrôleurs biométriques de la série InBio, il s'impose comme la solution de contrôle d'accès haut de gamme pour les entreprises, institutions et environnements sécurisés au Maroc. Entièrement conforme à la norme de cybersécurité ZKCSBL, il garantit une protection maximale des données biométriques de vos collaborateurs.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">CARACTÉRISTIQUES TECHNIQUES</h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Technologie de reconnaissance faciale à lumière visible ZKTeco — parmi les plus rapides et précises du marché</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Capacité élevée : 1 500 visages / 30 000 cartes / 100 000 enregistrements pour les grandes structures</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Connectivité multi-protocoles : TCP/IP 100 Mb/s haute vitesse, sortie Wiegand, Wi-Fi & RS485 (à venir)</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Serveur web intégré pour une configuration système rapide et intuitive, sans logiciel tiers</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Compatibilité native avec les contrôleurs InBio et la plateforme ZKBio Access IVS</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Conformité totale à la norme ZKCSBL — cybersécurité et protection avancée des données utilisateurs</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">POURQUOI CHOISIR BALENCIA ?</h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Expertise reconnue en intégration de systèmes biométriques ZKTeco au Maroc — conseil, installation et paramétrage inclus</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Support technique dédié & garantie constructeur — un interlocuteur unique pour la durée de vie de votre équipement</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Produits certifiés authentiques, sélectionnés par BALENCIA pour répondre aux standards les plus exigeants du marché marocain</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">🚚 Livraison gratuite partout au Maroc • 💳 Paiement à la livraison • 🔄 Retour gratuit sous 14 jours</p>\n  </div>\n\n</div>",
+  "metaDescription": "KF1000 ZKTeco – Lecteur biométrique facial à 1 790 MAD. Livraison gratuite au Maroc. Reconnaissance visage ultra-précise signée BALENCIA Smart Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Pointeuse biométrique",
+  "slug": "lecteur-biometrique-facial-kf1000-zkteco",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777139099/a4hul1pxvaxjjeo6onmf.png",
+      "alt": "Lecteur facial ZKTeco KF1000 : reconnaissance à lumière visible, ultra-rapide et précise. Compatible InBio. Sécurité certifiée ZKCSBL pour entreprises au Maroc."
+    }
+  ],
+  "name": "KF1000",
+  "publishedAt": "2026-04-25T17:45:01.863Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "KF1000",
+    "description": "KF1000 ZKTeco – Lecteur biométrique facial à 1 790 MAD. Livraison gratuite au Maroc. Reconnaissance visage ultra-précise signée BALENCIA Smart Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777139099/a4hul1pxvaxjjeo6onmf.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 1790,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/lecteur-biometrique-facial-kf1000-zkteco"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
