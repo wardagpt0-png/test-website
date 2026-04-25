@@ -15,15 +15,22 @@
   "slug": "serrure-digital-ef-25",
   "rating": 4.8,
   "reviewCount": 50,
-  "images": [],
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777131303/gsnmhhyeldwixkrphutt.png",
+      "alt": "Serrure connectée EF 25 avec caméra HD, reconnaissance faciale & biométrique, alarme intégrée et interphone visuel. Sécurité totale, contrôle absolu."
+    }
+  ],
   "name": "Serrure Digital EF 25",
-  "publishedAt": "2026-04-25T15:34:51.501Z",
+  "publishedAt": "2026-04-25T15:35:05.585Z",
   "schema": {
     "@context": "https://schema.org",
     "@type": "Product",
     "name": "Serrure Digital EF 25",
     "description": "Serrure Digital EF 25 à 3290 MAD au Maroc. Caméra, reconnaissance faciale, alarme, interphone visuel. Livraison gratuite. BALENCIA Smart Security.",
-    "image": [],
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777131303/gsnmhhyeldwixkrphutt.png"
+    ],
     "brand": {
       "@type": "Brand",
       "name": "BALENCIA"
