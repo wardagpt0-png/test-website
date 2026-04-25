@@ -1,0 +1,51 @@
+{
+  "title": "PA22",
+  "price": 2340,
+  "oldPrice": 2840,
+  "discountPercentage": " 17%",
+  "description": "",
+  "detailedDescription": "<div style=\"font-family: Inter, sans-serif; color: #111827; line-height: 1.8;\">\n\n  <h2 style=\"font-size: 1.5rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;\">\n    PA22 — Terminal Biométrique Palmaire Sans Contact 3-en-1\n  </h2>\n\n  <p style=\"font-size: 1rem; color: #374151; margin-bottom: 1.5rem;\">\n    Le PA22 représente une avancée majeure dans le contrôle d'accès biométrique sans contact, propulsé par la technologie de vision par ordinateur ARMATURA de ZKTeco. En une fraction de seconde, il analyse simultanément trois marqueurs biologiques distincts — les veines de la paume, l'empreinte palmaire et la forme de la main — garantissant un niveau d'authentification sans équivalent sur le marché. Solution idéale pour les environnements sensibles exigeant hygiène absolue et sécurité maximale au Maroc.\n  </p>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    CARACTÉRISTIQUES TECHNIQUES\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Reconnaissance palmaire sans contact 3-en-1 — veines de la paume, empreinte palmaire et forme de la main analysées simultanément</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Technologie ARMATURA par vision par ordinateur — algorithme avancé pour une précision biométrique de niveau enterprise</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Authentification instantanée à la détection de la main — aucun contact physique requis, zéro friction pour l'utilisateur</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Triple vérification biométrique simultanée — niveau de sécurité quasi-infalsifiable, résistant aux tentatives d'usurpation</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Solution 100 % hygiénique — idéale pour les secteurs santé, pharmaceutique, agroalimentaire et espaces à fort trafic</li>\n    <li style=\"padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; color: #374151;\">✓ Intégration native dans les écosystèmes ZKTeco — compatible avec les plateformes de gestion d'accès et de présence</li>\n  </ul>\n\n  <h3 style=\"font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.75rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.5rem;\">\n    POURQUOI CHOISIR BALENCIA ?\n  </h3>\n\n  <ul style=\"list-style: none; padding: 0; margin-bottom: 1.5rem;\">\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Premier acteur au Maroc à proposer la reconnaissance palmaire sans contact ARMATURA — technologie exclusive, conseil expert inclus</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Étude de faisabilité et intégration sur mesure dans votre infrastructure existante — déploiement clé en main sans interruption d'activité</li>\n    <li style=\"padding: 0.5rem 0; color: #374151;\">→ Garantie officielle ZKTeco, SAV dédié et formation des équipes — performance biométrique maintenue sur toute la durée de vie du terminal</li>\n  </ul>\n\n  <div style=\"background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem;\">\n    <p style=\"font-size: 0.875rem; color: #6b7280; margin: 0;\">\n      🚚 Livraison gratuite partout au Maroc &nbsp;•&nbsp; 💳 Paiement à la livraison &nbsp;•&nbsp; 🔄 Retour gratuit sous 14 jours\n    </p>\n  </div>\n\n</div>",
+  "metaDescription": "PA22 terminal reconnaissance palmaire sans contact à 2 340 MAD — Veines, empreinte, forme main, ARMATURA au Maroc. Livraison gratuite. BALENCIA Security.",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Contrôle d'accès",
+  "slug": "pa22-terminal-palmaire-sans-contact-3-en-1-armatura",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145335/j8uoagcvuy1mcjbg9ydj.png",
+      "alt": "Terminal palmaire sans contact 3-en-1 : veines, empreinte et forme de la main reconnues simultanément. Technologie ARMATURA, hygiénique et ultra-précis."
+    }
+  ],
+  "name": "PA22",
+  "publishedAt": "2026-04-25T19:28:57.152Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PA22",
+    "description": "PA22 terminal reconnaissance palmaire sans contact à 2 340 MAD — Veines, empreinte, forme main, ARMATURA au Maroc. Livraison gratuite. BALENCIA Security.",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777145335/j8uoagcvuy1mcjbg9ydj.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 2340,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/pa22-terminal-palmaire-sans-contact-3-en-1-armatura"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
