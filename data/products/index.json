@@ -1,5 +1,22 @@
 [
   {
+    "slug": "fghf",
+    "title": "rote",
+    "name": "rote",
+    "price": 485,
+    "oldPrice": 400,
+    "discountPercentage": "14",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777213436/y5zlnurtq9i8h0gnek8t.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777213436/y5zlnurtq9i8h0gnek8t.png",
+        "alt": "pa22-terminal-palmaire-sans-contact-3-en-1-armatura.png"
+      }
+    ],
+    "publishedAt": "2026-04-26T14:23:59.534Z"
+  },
+  {
     "slug": "imprimante-thermique-zkp8013",
     "title": "ZKP8013 Imprimante Thermique",
     "name": "ZKP8013 Imprimante Thermique",
