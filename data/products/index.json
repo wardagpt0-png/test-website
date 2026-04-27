@@ -1,22 +1,5 @@
 [
   {
-    "slug": "fhgh",
-    "title": "slik",
-    "name": "slik",
-    "price": 8789,
-    "oldPrice": 757,
-    "discountPercentage": "34",
-    "category": "Serrure intelligente",
-    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777251085/ouduoyduarphualqu5zj.webp",
-    "images": [
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777251085/ouduoyduarphualqu5zj.webp",
-        "alt": "glowing-golden-AI-neural-network-elegantly-wrapped-around-a-luxurious.webp"
-      }
-    ],
-    "publishedAt": "2026-04-27T00:51:28.556Z"
-  },
-  {
     "slug": "imprimante-thermique-zkp8013",
     "title": "ZKP8013 Imprimante Thermique",
     "name": "ZKP8013 Imprimante Thermique",
