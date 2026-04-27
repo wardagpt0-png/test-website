@@ -1,5 +1,22 @@
 [
   {
+    "slug": "Nom du produit *",
+    "title": "Nom du produit *",
+    "name": "Nom du produit *",
+    "price": 1457,
+    "oldPrice": 575,
+    "discountPercentage": "14",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777248669/qkbex5qprpgkgzikodxs.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777248669/qkbex5qprpgkgzikodxs.png",
+        "alt": "imprimante-thermique-zkp8013.png"
+      }
+    ],
+    "publishedAt": "2026-04-27T00:11:11.981Z"
+  },
+  {
     "slug": "imprimante-thermique-zkp8013",
     "title": "ZKP8013 Imprimante Thermique",
     "name": "ZKP8013 Imprimante Thermique",
