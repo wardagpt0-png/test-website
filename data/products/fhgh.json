@@ -1,0 +1,51 @@
+{
+  "title": "slik",
+  "price": 8789,
+  "oldPrice": 757,
+  "discountPercentage": "34",
+  "description": "",
+  "detailedDescription": "kljhlkj",
+  "metaDescription": "hmlkj",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Serrure intelligente",
+  "slug": "fhgh",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777251085/ouduoyduarphualqu5zj.webp",
+      "alt": "glowing-golden-AI-neural-network-elegantly-wrapped-around-a-luxurious.webp"
+    }
+  ],
+  "name": "slik",
+  "publishedAt": "2026-04-27T00:51:28.556Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "slik",
+    "description": "hmlkj",
+    "image": [
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777251085/ouduoyduarphualqu5zj.webp"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 8789,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/fhgh"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
